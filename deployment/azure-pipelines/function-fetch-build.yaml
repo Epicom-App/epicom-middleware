@@ -1,0 +1,51 @@
+trigger:
+  branches:
+    include:
+    - main
+    - develop
+  paths:
+    include:
+      - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch/*
+      - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch.Domain/*
+      - src/backend/Shared/*
+
+variables:
+  # Azure Resource Manager connection created during pipeline creation
+  azureSubscription: '4f3aba12-b386-4812-8ad6-d68101b607f1'
+
+  # Agent VM image name
+  vmImageName: 'ubuntu-18.04'
+
+  # Working Directory
+  workingDirectory: '$(System.DefaultWorkingDirectory)/src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch'
+
+stages:
+- stage: Build
+  displayName: Build stage
+
+  jobs:
+  - job: Build
+    displayName: Build
+    pool:
+      vmImage: $(vmImageName)
+
+    steps:
+    - task: DotNetCoreCLI@2
+      displayName: Build
+      inputs:
+        command: 'build'
+        projects: |
+          $(workingDirectory)/*.csproj
+        arguments: --output $(System.DefaultWorkingDirectory)/publish_output --configuration Release
+
+    - task: ArchiveFiles@2
+      displayName: 'Archive files'
+      inputs:
+        rootFolderOrFile: '$(System.DefaultWorkingDirectory)/publish_output'
+        includeRootFolder: false
+        archiveType: zip
+        archiveFile: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+        replaceExistingArchive: true
+
+    - publish: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
+      artifact: drop
