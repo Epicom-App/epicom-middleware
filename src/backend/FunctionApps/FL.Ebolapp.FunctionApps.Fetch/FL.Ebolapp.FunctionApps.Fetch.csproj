@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AzureFunctionsVersion>v3</AzureFunctionsVersion>
+    <LangVersion>8.0</LangVersion>
+    <UserSecretsId>fb7aaa14-2724-42ed-9d82-0fef43630f7e</UserSecretsId>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.Functions.Extensions" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="3.1.11" />
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.11" />
+    <PackageReference Include="Polly" Version="7.2.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FL.Ebolapp.FunctionsApp.Fetch.Domain\FL.Ebolapp.FunctionsApp.Fetch.Domain.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="local.settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>

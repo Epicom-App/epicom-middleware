@@ -1,0 +1,48 @@
+[
+  {
+    "informationUrl": "https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/coronavirus_node.html",
+    "stateId": 1,
+    "numberOfCases": 45.59585063984,
+    "severity": 3
+  },
+  { "informationUrl": "https://corona.rlp.de/de/startseite/", "stateId": 7, "numberOfCases": 46.4349057610793, "severity": 3 },
+  {
+    "informationUrl": "https://www.saarland.de/DE/portale/corona/home/home_node.html",
+    "stateId": 10,
+    "numberOfCases": 58.5680022130193,
+    "severity": 4
+  },
+  {
+    "informationUrl": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/",
+    "stateId": 8,
+    "numberOfCases": 60.4753308756428,
+    "severity": 4
+  },
+  { "informationUrl": "https://www.bremen.de/corona", "stateId": 4, "numberOfCases": 62.8301150025983, "severity": 4 },
+  { "informationUrl": "https://www.niedersachsen.de/Coronavirus", "stateId": 3, "numberOfCases": 62.862727319128, "severity": 4 },
+  {
+    "informationUrl": "https://www.brandenburg.de/de/portal/bb1.c.473964.de",
+    "stateId": 12,
+    "numberOfCases": 63.4444046595157,
+    "severity": 4
+  },
+  { "informationUrl": "https://www.land.nrw/corona", "stateId": 5, "numberOfCases": 65.7650563282193, "severity": 4 },
+  {
+    "informationUrl": "https://www.hessen.de/fuer-buerger/aktuelle-informationen-zu-corona-hessen",
+    "stateId": 6,
+    "numberOfCases": 68.0493886846223,
+    "severity": 4
+  },
+  { "informationUrl": "https://www.regierung-mv.de/corona/", "stateId": 13, "numberOfCases": 68.0911712800767, "severity": 4 },
+  { "informationUrl": "https://www.berlin.de/corona/", "stateId": 11, "numberOfCases": 70.8545136096532, "severity": 4 },
+  {
+    "informationUrl": "https://www.bayern.de/service/coronavirus-in-bayern-informationen-auf-einen-blick/",
+    "stateId": 9,
+    "numberOfCases": 72.0852539749939,
+    "severity": 4
+  },
+  { "informationUrl": "https://www.hamburg.de/coronavirus/", "stateId": 2, "numberOfCases": 73.2980268539285, "severity": 4 },
+  { "informationUrl": "https://www.coronavirus.sachsen.de/", "stateId": 14, "numberOfCases": 86.7393210806266, "severity": 4 },
+  { "informationUrl": "https://coronavirus.sachsen-anhalt.de/", "stateId": 15, "numberOfCases": 88.6192797280094, "severity": 4 },
+  { "informationUrl": "https://corona.thueringen.de/", "stateId": 16, "numberOfCases": 134.99717349668, "severity": 5 }
+]

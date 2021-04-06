@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <UserSecretsId>fb7aaa14-2724-42ed-9d82-0fef43630f7e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Azure.WebJobs" Version="3.0.25" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="3.1.11" />
+    <PackageReference Include="System.Text.Json" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.csproj" />
+  </ItemGroup>
+
+</Project>

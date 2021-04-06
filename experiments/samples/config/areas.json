@@ -1,0 +1,2886 @@
+[
+  {
+    "stateId": 1,
+    "stateName": "Flensburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.flensburg.de/Startseite/Informationen-zum-Coronavirus.php?object=tx,2306.5&ModID=7&FID=2306.20374.1",
+    "areaId": 1,
+    "areaCode": "01001"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Kiel, Kreisfreie Stadt",
+    "informationUrl": "https://www.kiel.de/de/politik_verwaltung/ortsrecht_bekanntmachungen/bekanntmachungen.php",
+    "areaId": 2,
+    "areaCode": "01002"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Lübeck, Kreisfreie Stadt",
+    "informationUrl": "https://www.luebeck.de/de/rathaus/verwaltung/gesundheitsamt/infektionsschutz/coronavirus.html",
+    "areaId": 3,
+    "areaCode": "01003"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Neumünster, Kreisfreie Stadt",
+    "informationUrl": "https://www.neumuenster.de/gesellschaft-soziales/gesundheit/corona-virus/",
+    "areaId": 4,
+    "areaCode": "01004"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Dithmarschen, Kreis",
+    "informationUrl": "https://www.dithmarschen.de/Neues-erfahren/Coronavirus",
+    "areaId": 5,
+    "areaCode": "01051"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Herzogtum Lauenburg, Kreis",
+    "informationUrl": "https://www.kreis-rz.de/Quicknavigation/Startseite/Aktuelles-zum-Thema-Corona-SARS-CoV-2-im-Kreis-Herzogtum-Lauenburg.php?object=tx,3149.5&ModID=7&FID=1814.12130.1&NavID=1814.65",
+    "areaId": 6,
+    "areaCode": "01053"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Nordfriesland, Kreis",
+    "informationUrl": "https://www.nordfriesland.de/Kreis-Verwaltung/Aktuelles/Coronavirus/",
+    "areaId": 7,
+    "areaCode": "01054"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Ostholstein, Kreis",
+    "informationUrl": "https://www.kreis-oh.de/Soziales-Familie-Gesundheit/Gesundheitsamt/CoronaVirus/",
+    "areaId": 8,
+    "areaCode": "01055"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Pinneberg, Kreis",
+    "informationUrl": "https://www.kreis-pinneberg.de/Coronavirus.html",
+    "areaId": 9,
+    "areaCode": "01056"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Plön, Kreis",
+    "informationUrl": "https://www.kreis-ploen.de/B%C3%BCrgerservice/Informationen-zum-Corona-Virus",
+    "areaId": 10,
+    "areaCode": "01057"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Rendsburg-Eckernförde, Kreis",
+    "informationUrl": "https://www.kreis-rendsburg-eckernfoerde.de/corona-kompakt/massnahmen-gegen-neuinfektionen/",
+    "areaId": 11,
+    "areaCode": "01058"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Schleswig-Flensburg, Kreis",
+    "informationUrl": "https://www.schleswig-flensburg.de/Leben-Soziales/Gesundheit/Coronavirus/Allgemeinverf%C3%BCgungen-des-Kreises-Schleswig-Flensburg.php?object=tx%7c2120.1&ModID=7&FID=2120.13815.1&NavID=2120.752&La=1",
+    "areaId": 12,
+    "areaCode": "01059"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Segeberg, Kreis",
+    "informationUrl": "https://www.segeberg.de/F%C3%BCr-Segeberger/Coronavirus/COVID-19-Versch%C3%A4rfte-Regeln.php?object=tx,2211.1&ModID=7&FID=2211.12770.1&NavID=2211.826&La=1",
+    "areaId": 13,
+    "areaCode": "01060"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Steinburg, Kreis",
+    "informationUrl": "https://www.steinburg.de/kreisverwaltung/leistungen-services/covid-19-aktuelle-informationen.html",
+    "areaId": 14,
+    "areaCode": "01061"
+  },
+  {
+    "stateId": 1,
+    "stateName": "Stormarn, Kreis",
+    "informationUrl": "https://www.kreis-stormarn.de/kreis/fachbereiche/soziales-und-gesundheit/gesundheit/coronavirus.html",
+    "areaId": 15,
+    "areaCode": "01062"
+  },
+  {
+    "stateId": 2,
+    "stateName": "Hamburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.hamburg.de/coronavirus/",
+    "areaId": 16,
+    "areaCode": "02000"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Braunschweig, Kreisfreie Stadt",
+    "informationUrl": "https://www.braunschweig.de/aktuell/index.php",
+    "areaId": 17,
+    "areaCode": "03101"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Salzgitter, Kreisfreie Stadt",
+    "informationUrl": "https://www.salzgitter.de/pressemeldungen/2021/infos-corona-virus.php",
+    "areaId": 18,
+    "areaCode": "03102"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Wolfsburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.wolfsburg.de/coronavirus",
+    "areaId": 19,
+    "areaCode": "03103"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Gifhorn, Landkreis",
+    "informationUrl": "https://www.gifhorn.de/der-landkreis/presseportal/coronavirus-aktuelle-informationen/?L=0&no_cache=1",
+    "areaId": 20,
+    "areaCode": "03151"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Goslar, Landkreis",
+    "informationUrl": "https://www.goslar.de/corona",
+    "areaId": 21,
+    "areaCode": "03153"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Helmstedt, Landkreis",
+    "informationUrl": "https://www.helmstedt.de/verwaltung/dienstleistungen/dienstleistung.php?id=692&menuid=662&refmenuid=1114&reftopmenu=782&topmenu=637",
+    "areaId": 22,
+    "areaCode": "03154"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Northeim, Landkreis",
+    "informationUrl": "https://www.landkreis-northeim.de/portal/seiten/neuartiges-coronavirus-sars-cov-2--900000273-23900.html",
+    "areaId": 23,
+    "areaCode": "03155"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Peine, Landkreis",
+    "informationUrl": "https://www.landkreis-peine.de/Aktuelles-B%C3%BCrgerservice/Informationen-zu-Coronaviren",
+    "areaId": 24,
+    "areaCode": "03157"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Wolfenbüttel, Landkreis",
+    "informationUrl": "https://www.lkwf.de/Aktuelles/Corona-Virus/",
+    "areaId": 25,
+    "areaCode": "03158"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Göttingen, Landkreis",
+    "informationUrl": "https://www.goettingen.de/aktuelles/coronavirus-das-gesundheitsamt-informiert-2020-02-17.html",
+    "areaId": 26,
+    "areaCode": "03159"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Region Hannover, Landkreis",
+    "informationUrl": "https://www.hannover.de/Leben-in-der-Region-Hannover/Gesundheit/Gesundheitsschutz/Coronavirus-in-der-Region-Hannover/Meldungen-zum-Coronavirus/Aktuelle-Informationen-zum-Coronavirus-der-Region-Hannover",
+    "areaId": 27,
+    "areaCode": "03241"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Diepholz, Landkreis",
+    "informationUrl": "https://www.diepholz.de/portal/seiten/coronavirus-aktuelle-informationen-und-wichtige-telefonnummern-900001005-21750.html",
+    "areaId": 28,
+    "areaCode": "03251"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Hameln-Pyrmont, Landkreis",
+    "informationUrl": "https://www.hameln-pyrmont.de/corona",
+    "areaId": 29,
+    "areaCode": "03252"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Hildesheim, Landkreis",
+    "informationUrl": "https://www.landkreishildesheim.de/B%C3%BCrgerservice/Corona/Allgemeinverf%C3%BCgungen/",
+    "areaId": 30,
+    "areaCode": "03254"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Holzminden, Landkreis",
+    "informationUrl": "https://www.landkreis-holzminden.de/portal/seiten/aktuelles-zum-coronavirus-900000405-25600.html",
+    "areaId": 31,
+    "areaCode": "03255"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Nienburg (Weser), Landkreis",
+    "informationUrl": "https://www.lk-nienburg.de/portal/seiten/corona-startseite-901000979-21500.html",
+    "areaId": 32,
+    "areaCode": "03256"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Schaumburg, Landkreis",
+    "informationUrl": "https://www.schaumburg.de/Coronavirus/",
+    "areaId": 33,
+    "areaCode": "03257"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Celle, Landkreis",
+    "informationUrl": "https://www.landkreis-celle.de/kreisverwaltung/landratsbuero/informationen-sars-cov-2/corona-verordnungen.html",
+    "areaId": 34,
+    "areaCode": "03351"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Cuxhaven, Landkreis",
+    "informationUrl": "https://www.landkreis-cuxhaven.de/corona",
+    "areaId": 35,
+    "areaCode": "03352"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Harburg, Landkreis",
+    "informationUrl": "https://www.landkreis-harburg.de/?ruri=%2Fportal%2Fseiten%2Falle-informationen-rund-um-die-corona-pandemie-901002222-20100.html%3Fvs%3D1",
+    "areaId": 36,
+    "areaCode": "03353"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Lüchow-Dannenberg, Landkreis",
+    "informationUrl": "https://www.luechow-dannenberg.de/home/familie-soziales-gesundheit/corona-virus/allgemeinverfu%CC%88gungen.aspx",
+    "areaId": 37,
+    "areaCode": "03354"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Lüneburg, Landkreis",
+    "informationUrl": "https://corona.landkreis-lueneburg.de/",
+    "areaId": 38,
+    "areaCode": "03355"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Osterholz, Landkreis",
+    "informationUrl": "https://www.landkreis-osterholz.de/portal/meldungen/aktuelle-informationen-zum-coronavirus-901005017-21000.html",
+    "areaId": 39,
+    "areaCode": "03356"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Rotenburg (Wümme), Landkreis",
+    "informationUrl": "https://www.lk-row.de/portal/seiten/vorschriften-zu-corona-900000163-23700.html",
+    "areaId": 40,
+    "areaCode": "03357"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Heidekreis, Landkreis",
+    "informationUrl": "https://www.heidekreis.de/home/gesundheit-soziales/gesundheit-veterinaerwesen/coronavirus.aspx",
+    "areaId": 41,
+    "areaCode": "03358"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Stade, Landkreis",
+    "informationUrl": "https://www.landkreis-stade.de/portal/seiten/corona-901000719-20350.html",
+    "areaId": 42,
+    "areaCode": "03359"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Uelzen, Landkreis",
+    "informationUrl": "https://www.landkreis-uelzen.de/home/soziales-familie-und-gesundheit/gesundheit/corona-virus.aspx",
+    "areaId": 43,
+    "areaCode": "03360"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Verden, Landkreis",
+    "informationUrl": "https://www.landkreis-verden.de/portal/seiten/verordnungen-des-landes-allgemeinverfuegungen-des-landkreises-zur-coronavirus-pandemie-901001581-20600.html",
+    "areaId": 44,
+    "areaCode": "03361"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Delmenhorst, Kreisfreie Stadt",
+    "informationUrl": "https://www.delmenhorst.de/aktuelles/coronavirus.php",
+    "areaId": 45,
+    "areaCode": "03401"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Emden, Kreisfreie Stadt",
+    "informationUrl": "https://www.emden.de/rathaus/verwaltung/fb-500-gesundheit-und-soziales/fd-553-gesundheit/corona",
+    "areaId": 46,
+    "areaCode": "03402"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Oldenburg (Oldb), Kreisfreie Stadt",
+    "informationUrl": "https://www.oldenburg.de/startseite/leben-umwelt/soziales/gesundheitsamt/corona/corona-verfuegungen.html",
+    "areaId": 47,
+    "areaCode": "03403"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Osnabrück, Kreisfreie Stadt",
+    "informationUrl": "https://corona-os.de/",
+    "areaId": 48,
+    "areaCode": "03404"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Wilhelmshaven, Kreisfreie Stadt",
+    "informationUrl": "https://www.wilhelmshaven.de/Themen/Gesundheit/Coronavirus/Informationen_zu_COVID-19.php",
+    "areaId": 49,
+    "areaCode": "03405"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Ammerland, Landkreis",
+    "informationUrl": "https://www.ammerland.de/Aktuelles/Topthemen/Coronavirus-INFOPORTAL/",
+    "areaId": 50,
+    "areaCode": "03451"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Aurich, Landkreis",
+    "informationUrl": "https://www.landkreis-aurich.de/soziales-gesundheit/gesundheit/aktuelle-informationen-zum-thema-corona.html",
+    "areaId": 51,
+    "areaCode": "03452"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Cloppenburg, Landkreis",
+    "informationUrl": "https://lkclp.de/gesundheit-soziales/aktuelles-zum-coronavirus/corona--downloads-allgemeinverfuegungen-verordnungen-formulare-etc..php",
+    "areaId": 52,
+    "areaCode": "03453"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Emsland, Landkreis",
+    "informationUrl": "https://www.emsland.de/buerger-behoerde/aktuell/coronavirus/allgemeinverfuegungen-des-landkreises-emsland.html",
+    "areaId": 53,
+    "areaCode": "03454"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Friesland, Landkreis",
+    "informationUrl": "https://www.friesland.de/portal/seiten/coronavirus-in-friesland-informationen-901001117-20800.html",
+    "areaId": 54,
+    "areaCode": "03455"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Grafschaft Bentheim, Landkreis",
+    "informationUrl": "https://www.grafschaft-bentheim.de/staticsite/staticsite2.php?menuid=1881&topmenu=1873",
+    "areaId": 55,
+    "areaCode": "03456"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Leer, Landkreis",
+    "informationUrl": "https://www.landkreis-leer.de/Leben-Lernen/Coronavirus",
+    "areaId": 56,
+    "areaCode": "03457"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Oldenburg, Landkreis",
+    "informationUrl": "https://www.oldenburg-kreis.de/portal/meldungen/allgemeinverfuegung-des-landkreises-oldenburg-zur-umsetzung-des-3-abs-2-der-niedersaechsischen-corona-verordnung-vom-09-12-2020-900000412-21700.html",
+    "areaId": 57,
+    "areaCode": "03458"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Osnabrück, Landkreis",
+    "informationUrl": "https://corona-os.de/",
+    "areaId": 58,
+    "areaCode": "03459"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Vechta, Landkreis",
+    "informationUrl": "https://www.landkreis-vechta.de//soziales-und-gesundheit/corona-im-landkreis-vechta/verfuegungen.html",
+    "areaId": 59,
+    "areaCode": "03460"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Wesermarsch, Landkreis",
+    "informationUrl": "https://landkreis-wesermarsch.de/index.php?show=1908&mod=15",
+    "areaId": 60,
+    "areaCode": "03461"
+  },
+  {
+    "stateId": 3,
+    "stateName": "Wittmund, Landkreis",
+    "informationUrl": "https://corona.landkreis-wittmund.de/",
+    "areaId": 61,
+    "areaCode": "03462"
+  },
+  {
+    "stateId": 4,
+    "stateName": "Bremen, Kreisfreie Stadt",
+    "informationUrl": "https://www.bremen.de/corona",
+    "areaId": 62,
+    "areaCode": "04011"
+  },
+  {
+    "stateId": 4,
+    "stateName": "Bremerhaven, Kreisfreie Stadt",
+    "informationUrl": "https://www.bremerhaven.de/de/verwaltung-politik-sicherheit/coronavirus/vorschriften-corona.101443.html",
+    "areaId": 63,
+    "areaCode": "04012"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Düsseldorf, Kreisfreie Stadt",
+    "informationUrl": "https://corona.duesseldorf.de/",
+    "areaId": 64,
+    "areaCode": "05111"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Duisburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.duisburg.de/microsites/coronavirus/aktuelles/corona-allgemeine-faq.php",
+    "areaId": 65,
+    "areaCode": "05112"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Essen, Kreisfreie Stadt",
+    "informationUrl": "https://www.essen.de/leben/gesundheit/corona_virus/coronavirus_einschraenkungen_oeffentliches_leben.de.html",
+    "areaId": 66,
+    "areaCode": "05113"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Krefeld, Kreisfreie Stadt",
+    "informationUrl": "https://www.krefeld.de/de/inhalt/stadtverwaltung-erklaert-neue-corona-regeln-fuer-krefeld",
+    "areaId": 67,
+    "areaCode": "05114"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Mönchengladbach, Kreisfreie Stadt",
+    "informationUrl": "https://notfallmg.de/de/",
+    "areaId": 68,
+    "areaCode": "05116"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Mülheim an der Ruhr, Kreisfreie Stadt",
+    "informationUrl": "https://www1.muelheim-ruhr.de/corona-virus/informationen_erlasse_und_verordnungen_der_landesregierung/181531",
+    "areaId": 69,
+    "areaCode": "05117"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Oberhausen, Kreisfreie Stadt",
+    "informationUrl": "https://www.oberhausen.de/de/index/rathaus/verwaltung/umwelt-gesundheit-und-mobilitat/gesundheit/aktuelle_informationen/informationen_zum_coronavirus.php",
+    "areaId": 70,
+    "areaCode": "05119"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Remscheid, Kreisfreie Stadt",
+    "informationUrl": "https://remscheid.de/corona#chapter146380100000143530-1015_sp_main_iterate_24_0",
+    "areaId": 71,
+    "areaCode": "05120"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Solingen, Kreisfreie Stadt",
+    "informationUrl": "https://www.solingen.de/de/inhalt/coronavirus-beratung/",
+    "areaId": 72,
+    "areaCode": "05122"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Wuppertal, Kreisfreie Stadt",
+    "informationUrl": "https://www.wuppertal.de/presse/meldungen/meldungen-2020/mai20/Verordnungen-Corona-ueberblick.php",
+    "areaId": 73,
+    "areaCode": "05124"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Kleve, Kreis",
+    "informationUrl": "https://www.kreis-kleve.de/de/fachbereich5/aktuelle-regeln-verordnungen-allgemeinverfuegungen/",
+    "areaId": 74,
+    "areaCode": "05154"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Mettmann, Kreis",
+    "informationUrl": "https://www.sonderlage-kreis-mettmann.de/",
+    "areaId": 75,
+    "areaCode": "05158"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Rhein-Kreis Neuss, Kreis",
+    "informationUrl": "https://www.rhein-kreis-neuss.de/de/verwaltung-politik/aemterliste/gesundheitsamt/corona/",
+    "areaId": 76,
+    "areaCode": "05162"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Viersen, Kreis",
+    "informationUrl": "https://www.kreis-viersen.de/de/inhalt-buergerservice/corona-regeln/",
+    "areaId": 77,
+    "areaCode": "05166"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Wesel, Kreis",
+    "informationUrl": "https://www.kreis-wesel.de/de/themen/corona-aktuelle-regeln/",
+    "areaId": 78,
+    "areaCode": "05170"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Bonn, Kreisfreie Stadt",
+    "informationUrl": "https://www.bonn.de/themen-entdecken/gesundheit-verbraucherschutz/coronavirus.php",
+    "areaId": 79,
+    "areaCode": "05314"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Köln, Kreisfreie Stadt",
+    "informationUrl": "https://www.stadt-koeln.de/artikel/69462/index.html",
+    "areaId": 80,
+    "areaCode": "05315"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Leverkusen, Kreisfreie Stadt",
+    "informationUrl": "https://www.leverkusen.de/leben-in-lev/corona-info-leverkusen/kurz-erklaert-beschluss-verordnung-verfuegung.php",
+    "areaId": 81,
+    "areaCode": "05316"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Städteregion Aachen, Kreis",
+    "informationUrl": "https://www.staedteregion-aachen.de/de/navigation/aemter/oeffentlichkeitsarbeit-s-13/aktuelles/pressemitteilungen/aktuelle-pressemitteilungen/coronavirus/",
+    "areaId": 82,
+    "areaCode": "05334"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Düren, Kreis",
+    "informationUrl": "https://www.kreis-dueren.de/aktuelles/presse/corona-aktuelles.php?pm=/aktuelles/presse/2020/Corona_Regeln_17.10.php",
+    "areaId": 83,
+    "areaCode": "05358"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Rhein-Erft-Kreis, Kreis",
+    "informationUrl": "https://www.rhein-erft-kreis.de/coronavirus-sarscov2/artikel/rechtliche-regelungen",
+    "areaId": 84,
+    "areaCode": "05362"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Euskirchen, Kreis",
+    "informationUrl": "https://corona.kreis-euskirchen.de/",
+    "areaId": 85,
+    "areaCode": "05366"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Heinsberg, Kreis",
+    "informationUrl": "https://www.kreis-heinsberg.de/aktuelles/aktuelles/?pid=5216",
+    "areaId": 86,
+    "areaCode": "05370"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Oberbergischer Kreis, Kreis",
+    "informationUrl": "https://www.obk.de/cms200/aktuelles/sars/faq/",
+    "areaId": 87,
+    "areaCode": "05374"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Rheinisch-Bergischer Kreis, Kreis",
+    "informationUrl": "https://www.rbk-direkt.de/aktuelle-regeln.aspx",
+    "areaId": 88,
+    "areaCode": "05378"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Rhein-Sieg-Kreis, Kreis",
+    "informationUrl": "https://www.rhein-sieg-kreis.de/verwaltung-politik/aktuelle-themen/corona-virus.php",
+    "areaId": 89,
+    "areaCode": "05382"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Bottrop, Kreisfreie Stadt",
+    "informationUrl": "https://www.bottrop.de/coronavirus/coronaverordnungen/index.php",
+    "areaId": 90,
+    "areaCode": "05512"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Gelsenkirchen, Kreisfreie Stadt",
+    "informationUrl": "https://www.gelsenkirchen.de/de/soziales/gesundheit/coronavirus/index.aspx",
+    "areaId": 91,
+    "areaCode": "05513"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Münster, Kreisfreie Stadt",
+    "informationUrl": "https://www.muenster.de/corona.html",
+    "areaId": 92,
+    "areaCode": "05515"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Borken, Kreis",
+    "informationUrl": "https://kreis-borken.de/de/newspublic/coronavirus/informationen-zum-coronavirus/",
+    "areaId": 93,
+    "areaCode": "05554"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Coesfeld, Kreis",
+    "informationUrl": "https://www.coesfeld.de/buergerservice/informationen-zum-corona-virus/aktuelle-informationen-zum-corona-virus/",
+    "areaId": 94,
+    "areaCode": "05558"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Recklinghausen, Kreis",
+    "informationUrl": "https://www.kreis-re.de/Inhalte/Buergerservice/Gesundheit_und_Ernaehrung/Infektionsschutz/Coronavirus.asp",
+    "areaId": 95,
+    "areaCode": "05562"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Steinfurt, Kreis",
+    "informationUrl": "https://www.kreis-steinfurt.de/kv_steinfurt/Aktuelles/Slider/Informationen%20Coronavirus/",
+    "areaId": 96,
+    "areaCode": "05566"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Warendorf, Kreis",
+    "informationUrl": "https://www.kreis-warendorf.de/aktuelles/presseinformationen/aktuelle-informationen-zum-coronavirus",
+    "areaId": 97,
+    "areaCode": "05570"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Bielefeld, Kreisfreie Stadt",
+    "informationUrl": "https://www.bielefeld.de/de/covi/reg/",
+    "areaId": 98,
+    "areaCode": "05711"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Gütersloh, Kreis",
+    "informationUrl": "https://www.guetersloh.de/de/themen/coronavirus.php",
+    "areaId": 99,
+    "areaCode": "05754"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Herford, Kreis",
+    "informationUrl": "https://www.kreis-herford.de/LEBEN/Gesund-sein-und-bleiben/Informationen-rund-um-Corona/Corona-Regelungen",
+    "areaId": 100,
+    "areaCode": "05758"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Höxter, Kreis",
+    "informationUrl": "https://corona.kreis-hoexter.de/aktuelles/5156.Geltende-Corona-Schutzmassnahmen-auf-einen-Blick.html",
+    "areaId": 101,
+    "areaCode": "05762"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Lippe, Kreis",
+    "informationUrl": "https://www.kreis-lippe.de/kreis-lippe/aktuelles/corona.php#anchor_eade92dc_Accordion-Wo-gilt-die-Mund-Nasen-Schutz-Pflicht-im-Kreis-Lippe",
+    "areaId": 102,
+    "areaCode": "05766"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Minden-Lübbecke, Kreis",
+    "informationUrl": "https://www.minden-luebbecke.de/Service/Corona",
+    "areaId": 103,
+    "areaCode": "05770"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Paderborn, Kreis",
+    "informationUrl": "http://www.kreis-paderborn.de/kreis_paderborn/aktuelles/pressemitteilungen/Informationen-zu-Coronaviren.php",
+    "areaId": 104,
+    "areaCode": "05774"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Bochum, Kreisfreie Stadt",
+    "informationUrl": "https://www.bochum.de/Corona/Vorschriften-und-Regeln",
+    "areaId": 105,
+    "areaCode": "05911"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Dortmund, Kreisfreie Stadt",
+    "informationUrl": "https://www.dortmund.de/de/dortmund_de/leichte_sprache/corona_virus_ls/startseite_ls_coronavirus/index.html",
+    "areaId": 106,
+    "areaCode": "05913"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Hagen, Kreisfreie Stadt",
+    "informationUrl": "https://www.hagen.de/web/de/hagen_de/01/0111/011103/regeln_in_hagen.html",
+    "areaId": 107,
+    "areaCode": "05914"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Hamm, Kreisfreie Stadt",
+    "informationUrl": "https://www.hamm.de/corona",
+    "areaId": 108,
+    "areaCode": "05915"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Herne, Kreisfreie Stadt",
+    "informationUrl": "https://www.herne.de/Stadt-und-Leben/Gesundheit/Informationen-zum-Coronavirus/",
+    "areaId": 109,
+    "areaCode": "05916"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Ennepe-Ruhr-Kreis, Kreis",
+    "informationUrl": "https://www.enkreis.de/aktuelles/news-detailansicht/news/coronaschutzverordnung-neue-regeln-betreffen-auch-ennepe-ruhr-kreis.html",
+    "areaId": 110,
+    "areaCode": "05954"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Hochsauerlandkreis, Kreis",
+    "informationUrl": "https://www.hochsauerlandkreis.de/regionale-themen/corona-aktuell",
+    "areaId": 111,
+    "areaCode": "05958"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Märkischer Kreis, Kreis",
+    "informationUrl": "https://www.maerkischer-kreis.de/corona/index.php",
+    "areaId": 112,
+    "areaCode": "05962"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Olpe, Kreis",
+    "informationUrl": "https://www.kreis-olpe.de/Quicknavigation/Startseite/Neue-Corona-Regeln-ab-dem-02-November-2020.php?object=tx,3123.5&ModID=7&FID=3125.1518.1",
+    "areaId": 113,
+    "areaCode": "05966"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Siegen-Wittgenstein, Kreis",
+    "informationUrl": "https://www.siegen-wittgenstein.de/coronavirus",
+    "areaId": 114,
+    "areaCode": "05970"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Soest, Kreis",
+    "informationUrl": "https://m.kreis-soest.de/start/startseite/corona/Corona.php",
+    "areaId": 115,
+    "areaCode": "05974"
+  },
+  {
+    "stateId": 5,
+    "stateName": "Unna, Kreis",
+    "informationUrl": "https://www.kreis-unna.de/nachrichten/n/?tx_news_pi1%5Bnews%5D=14220&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=31b36b644c47f5bc4011e1a3e334e130",
+    "areaId": 116,
+    "areaCode": "05978"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Darmstadt, Kreisfreie Stadt",
+    "informationUrl": "https://www.darmstadt.de/leben-in-darmstadt/gesundheit/informationen-zum-corona-virus",
+    "areaId": 117,
+    "areaCode": "06411"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Frankfurt am Main, Kreisfreie Stadt",
+    "informationUrl": "https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/hauptamt-und-stadtmarketing/buergerbuero-und-ehrenamt/coronavirus--fragen-und-antworten",
+    "areaId": 118,
+    "areaCode": "06412"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Offenbach am Main, Kreisfreie Stadt",
+    "informationUrl": "https://www.offenbach.de/leben-in-of/gesundheit/dir-6/corona/rechtsgrundlage/corona_was_ist_erlaubt.php?p=7306,7335,149432,152287#c3",
+    "areaId": 119,
+    "areaCode": "06413"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Wiesbaden, Kreisfreie Stadt",
+    "informationUrl": "https://www.wiesbaden.de/medien/rathausnachrichten/PM_Zielseite.php?showpm=true&amp;pmurl=https://www.wiesbaden.de/guiapplications/newsdesk/publications/Landeshauptstadt_Wiesbaden/141010100000379613.php",
+    "areaId": 120,
+    "areaCode": "06414"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Bergstraße, Landkreis",
+    "informationUrl": "https://www.kreis-bergstrasse.de/staticsite/staticsite.php?menuid=613&topmenu=467",
+    "areaId": 121,
+    "areaCode": "06431"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Darmstadt-Dieburg, Landkreis",
+    "informationUrl": "https://www.ladadi.de/",
+    "areaId": 122,
+    "areaCode": "06432"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Groß-Gerau, Landkreis",
+    "informationUrl": "https://www.kreisgg.de/gesundheit/infektionsschutz/corona-krise-info-und-hotlines/",
+    "areaId": 123,
+    "areaCode": "06433"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Hochtaunuskreis, Landkreis",
+    "informationUrl": "https://www.hochtaunuskreis.de/Informationen+der+Kreisverwaltung+zum+Corona+Virus/Lage%C3%BCbersicht.html",
+    "areaId": 124,
+    "areaCode": "06434"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Main-Kinzig-Kreis, Landkreis",
+    "informationUrl": "https://www.mkk.de/aktuelles/corona/alltag_in_zeiten_von_corona/alltag_mit_corona.html",
+    "areaId": 125,
+    "areaCode": "06435"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Main-Taunus-Kreis, Landkreis",
+    "informationUrl": "https://www.mtk.org/Coronavirus-8588.htm",
+    "areaId": 126,
+    "areaCode": "06436"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Odenwaldkreis, Landkreis",
+    "informationUrl": "https://www.odenwaldkreis.de/",
+    "areaId": 127,
+    "areaCode": "06437"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Offenbach, Landkreis",
+    "informationUrl": "https://www.offenbach.de/leben-in-of/gesundheit/dir-6/corona/rechtsgrundlage/corona_was_ist_erlaubt.php?p=7306,7335,149432,152287",
+    "areaId": 128,
+    "areaCode": "06438"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Rheingau-Taunus-Kreis, Landkreis",
+    "informationUrl": "https://www.rheingau-taunus.de/corona.html",
+    "areaId": 129,
+    "areaCode": "06439"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Wetteraukreis, Landkreis",
+    "informationUrl": "https://www.wetteraukreis.de/aktuelles/corona/",
+    "areaId": 130,
+    "areaCode": "06440"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Gießen, Landkreis",
+    "informationUrl": "https://www.giessen.de/Rathaus/Aktuelles/Coronavirus/",
+    "areaId": 131,
+    "areaCode": "06531"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Lahn-Dill-Kreis, Landkreis",
+    "informationUrl": "https://corona.lahn-dill-kreis.de/",
+    "areaId": 132,
+    "areaCode": "06532"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Limburg-Weilburg, Landkreis",
+    "informationUrl": "https://www.landkreis-limburg-weilburg.de/politik-verwaltung/presse-oeffentlichkeitsarbeit/bekanntmachungen",
+    "areaId": 133,
+    "areaCode": "06533"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Marburg-Biedenkopf, Landkreis",
+    "informationUrl": "https://www.marburg-biedenkopf.de/soziales_und_gesundheit/hygiene/Coronavirus-Informationen.php",
+    "areaId": 134,
+    "areaCode": "06534"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Vogelsbergkreis, Landkreis",
+    "informationUrl": "https://www.vogelsbergkreis.de/buerger-service/gesundheit-hygiene/hinweise-zu-covid-19/",
+    "areaId": 135,
+    "areaCode": "06535"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Kassel, Kreisfreie Stadt",
+    "informationUrl": "https://www.kassel.de/aktuelles/aktuelle-meldungen/coronavirus.php",
+    "areaId": 136,
+    "areaCode": "06611"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Fulda, Landkreis",
+    "informationUrl": "https://www.landkreis-fulda.de/buergerservice/gesundheit/coronavirus-sars-cov-2",
+    "areaId": 137,
+    "areaCode": "06631"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Hersfeld-Rotenburg, Landkreis",
+    "informationUrl": "https://www.hef-rof.de/corona",
+    "areaId": 138,
+    "areaCode": "06632"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Kassel, Landkreis",
+    "informationUrl": "https://www.landkreiskassel.de/aktuelles/coronavirus/index.php",
+    "areaId": 139,
+    "areaCode": "06633"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Schwalm-Eder-Kreis, Landkreis",
+    "informationUrl": "https://www.schwalm-eder-kreis.de/Aktuelles/Aktuelle-Informationen-zum-neuartigen-Coronavirus-Covid-19.htm",
+    "areaId": 140,
+    "areaCode": "06634"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Waldeck-Frankenberg, Landkreis",
+    "informationUrl": "https://www.landkreis-waldeck-frankenberg.de/leben-geniessen/wohlbefinden-bewahren/gesundheitsfoerderung/informationen-zum-coronavirus/",
+    "areaId": 141,
+    "areaCode": "06635"
+  },
+  {
+    "stateId": 6,
+    "stateName": "Werra-Meißner-Kreis, Landkreis",
+    "informationUrl": "https://www.werra-meissner-kreis.de/sonderseite-corona-virus",
+    "areaId": 142,
+    "areaCode": "06636"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Koblenz, Kreisfreie Stadt",
+    "informationUrl": "https://www.koblenz.de/coronavirus/beschraenkungen/",
+    "areaId": 143,
+    "areaCode": "07111"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Ahrweiler, Landkreis",
+    "informationUrl": "https://www.kreis-ahrweiler.de/index.php",
+    "areaId": 144,
+    "areaCode": "07131"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Altenkirchen (Westerwald), Landkreis",
+    "informationUrl": "https://www.kreis-altenkirchen.de/INTERNET/B%C3%BCrgerservice/Aktuelles/-CORONA-PANDEMIE-AKTUELLES-AUS-DEM-KREIS-.php?object=tx,2154.7.1&ModID=7&FID=2333.4911.1&NavID=2154.12&La=1",
+    "areaId": 145,
+    "areaCode": "07132"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Bad Kreuznach, Landkreis",
+    "informationUrl": "https://www.kreis-badkreuznach.de/kreisverwaltung/organisation/amt-7-gesundheitsamt/coronavirus/",
+    "areaId": 146,
+    "areaCode": "07133"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Birkenfeld, Landkreis",
+    "informationUrl": "https://www.landkreis-birkenfeld.de/city_info/webaccessibility/index.cfm?waid=574&modul_id=2&record_id=113284&keyword=5653",
+    "areaId": 147,
+    "areaCode": "07134"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Cochem-Zell, Landkreis",
+    "informationUrl": "https://www.cochem-zell.de/kv_cochem_zell/Unsere%20Themen/Gesundheitsamt/Informationen%20%C3%BCber%20das%20Coronavirus/",
+    "areaId": 148,
+    "areaCode": "07135"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Mayen-Koblenz, Landkreis",
+    "informationUrl": "https://www.kvmyk.de/kv_myk/Corona/",
+    "areaId": 149,
+    "areaCode": "07137"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Neuwied, Landkreis",
+    "informationUrl": "https://www.kreis-neuwied.de/kv_neuwied/Home/Aktuelles/Informationen%20zu%20Corona/Corona/",
+    "areaId": 150,
+    "areaCode": "07138"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Rhein-Hunsrück-Kreis, Landkreis",
+    "informationUrl": "https://www.kreis-sim.de/Aktuelles/Informationen-zum-Coronavirus",
+    "areaId": 151,
+    "areaCode": "07140"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Rhein-Lahn-Kreis, Landkreis",
+    "informationUrl": "https://www.rhein-lahn-kreis.de/",
+    "areaId": 152,
+    "areaCode": "07141"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Westerwaldkreis, Landkreis",
+    "informationUrl": "https://www.westerwaldkreis.de/startseite.html",
+    "areaId": 153,
+    "areaCode": "07143"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Trier, Kreisfreie Stadt",
+    "informationUrl": "https://www.trier.de/rathaus-buerger-in/aktuelles/trier.de-news/coronavirus/",
+    "areaId": 154,
+    "areaCode": "07211"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Bernkastel-Wittlich, Landkreis",
+    "informationUrl": "https://www.bernkastel-wittlich.de/kreisverwaltung/fachbereiche/gesundheit/infektionsschutz/corona-virus-covid-19/?no_cache=1",
+    "areaId": 155,
+    "areaCode": "07231"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Eifelkreis Bitburg-Prüm, Landkreis",
+    "informationUrl": "https://www.bitburg-pruem.de/cms/buergerservice-verwaltung/corona-portal#navbar",
+    "areaId": 156,
+    "areaCode": "07232"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Vulkaneifel, Landkreis",
+    "informationUrl": "https://www.vulkaneifel.de/",
+    "areaId": 157,
+    "areaCode": "07233"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Trier-Saarburg, Landkreis",
+    "informationUrl": "https://trier-saarburg.de/",
+    "areaId": 158,
+    "areaCode": "07235"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Frankenthal (Pfalz), Kreisfreie Stadt",
+    "informationUrl": "https://corona-frankenthal.de/",
+    "areaId": 159,
+    "areaCode": "07311"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Kaiserslautern, Kreisfreie Stadt",
+    "informationUrl": "https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/056894/index.html.de",
+    "areaId": 160,
+    "areaCode": "07312"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Landau in der Pfalz, Kreisfreie Stadt",
+    "informationUrl": "https://www.landau.de/Verwaltung-Politik/Pressemitteilungen/Aktuelle-Informationen-zum-Corona-Virus/",
+    "areaId": 161,
+    "areaCode": "07313"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Ludwigshafen am Rhein, Kreisfreie Stadt",
+    "informationUrl": "https://www.ludwigshafen.de/buergernah/buergerservice/informationen-zum-coronavirus",
+    "areaId": 162,
+    "areaCode": "07314"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Mainz, Kreisfreie Stadt",
+    "informationUrl": "https://www.mainz.de/verwaltung-und-politik/buergerservice-online/aktuell-schutz-gegen-corona-infektionen-links.php",
+    "areaId": 163,
+    "areaCode": "07315"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Neustadt an der Weinstraße, Kreisfreie Stadt",
+    "informationUrl": "https://www.neustadt.eu/B%C3%BCrger-Leben/COVID-19/",
+    "areaId": 164,
+    "areaCode": "07316"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Pirmasens, Kreisfreie Stadt",
+    "informationUrl": "https://www.pirmasens.de/rathaus/presse/corona/",
+    "areaId": 165,
+    "areaCode": "07317"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Speyer, Kreisfreie Stadt",
+    "informationUrl": "https://www.speyer.de/de/rathaus/medien-infos/aktuelle-informationen/aktuelle-informationen-zum-coronavirus/",
+    "areaId": 166,
+    "areaCode": "07318"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Worms, Kreisfreie Stadt",
+    "informationUrl": "https://www.worms-neu.de/neu-de/aktuelles/Corona-Infos/",
+    "areaId": 167,
+    "areaCode": "07319"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Zweibrücken, Kreisfreie Stadt",
+    "informationUrl": "https://www.zweibruecken.de/de/leben-in-zweibruecken/fragen-und-antworten-zu-corona-in-zweibruecken/",
+    "areaId": 168,
+    "areaCode": "07320"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Alzey-Worms, Landkreis",
+    "informationUrl": "https://www.kreis-alzey-worms.eu/verwaltung/aktuelles/corona-virus_regelungen_massnahmen.php",
+    "areaId": 169,
+    "areaCode": "07331"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Bad Dürkheim, Landkreis",
+    "informationUrl": "https://www.kreis-bad-duerkheim.de/kv_bad_duerkheim/Aktuelles/Aktuelles%20%C3%9Cbersicht/Informationen%20zu%20Corona-Virustyp%20COVID%2019/",
+    "areaId": 170,
+    "areaCode": "07332"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Donnersbergkreis, Landkreis",
+    "informationUrl": "https://www.donnersberg.de/donnersbergkreis/B%C3%BCrgerservice/Leistungen%20A%20-%20Z/Gesundheit/Gesundheitsamt%20des%20Donnersbergkreises/Informationen%20und%20Aktuelles%20zum%20Coronavirus/Gesundheitsamt%20aktuell/",
+    "areaId": 171,
+    "areaCode": "07333"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Germersheim, Landkreis",
+    "informationUrl": "https://www.germersheim.eu/stadt_germersheim/News/Aktuelles/Aktuelle%20Corona-Situation/",
+    "areaId": 172,
+    "areaCode": "07334"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Kaiserslautern, Landkreis",
+    "informationUrl": "https://www.kaiserslautern.de/buerger_rathaus_politik/medienportal/056894/index.html.de",
+    "areaId": 173,
+    "areaCode": "07335"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Kusel, Landkreis",
+    "informationUrl": "https://landkreis-kusel.de/corona-aktuell.html",
+    "areaId": 174,
+    "areaCode": "07336"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Südliche Weinstraße, Landkreis",
+    "informationUrl": "https://www.suedliche-weinstrasse.de/de/aktuelles/meldungen/infos_corona_virus.php",
+    "areaId": 175,
+    "areaCode": "07337"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Rhein-Pfalz-Kreis, Landkreis",
+    "informationUrl": "https://www.rhein-pfalz-kreis.de/kv_rpk/Coronavirus/",
+    "areaId": 176,
+    "areaCode": "07338"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Mainz-Bingen, Landkreis",
+    "informationUrl": "https://www.mainz-bingen.de/de/aktuelles/Corona.php",
+    "areaId": 177,
+    "areaCode": "07339"
+  },
+  {
+    "stateId": 7,
+    "stateName": "Südwestpfalz, Landkreis",
+    "informationUrl": "https://www.lksuedwestpfalz.de/buergerservice/abteilungen/gesundheitswesen/infos-zum-coronavirus/",
+    "areaId": 178,
+    "areaCode": "07340"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Stuttgart, Stadtkreis",
+    "informationUrl": "https://coronavirus.stuttgart.de/",
+    "areaId": 179,
+    "areaCode": "08111"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Böblingen, Landkreis",
+    "informationUrl": "https://www.lrabb.de/coronavirus",
+    "areaId": 180,
+    "areaCode": "08115"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Esslingen, Landkreis",
+    "informationUrl": "https://www.landkreis-esslingen.de/start/service/corona.html",
+    "areaId": 181,
+    "areaCode": "08116"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Göppingen, Landkreis",
+    "informationUrl": "https://www.landkreis-goeppingen.de/start/_Aktuelles/coronavirus.html",
+    "areaId": 182,
+    "areaCode": "08117"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Ludwigsburg, Landkreis",
+    "informationUrl": "https://www.landkreis-ludwigsburg.de/de/gesundheit-veterinaerwesen/gesundheit/informationen-zum-coronavirus/",
+    "areaId": 183,
+    "areaCode": "08118"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Rems-Murr-Kreis, Landkreis",
+    "informationUrl": "https://www.rems-murr-kreis.de//jugend-gesundheit-und-soziales/gesundheit/coronavirus-uebersicht",
+    "areaId": 184,
+    "areaCode": "08119"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Heilbronn, Stadtkreis",
+    "informationUrl": "https://www.heilbronn.de/local-storage-stadt-heilbronn/coronavirus/informationen-zum-coronavirus.html",
+    "areaId": 185,
+    "areaCode": "08121"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Heilbronn, Landkreis",
+    "informationUrl": "https://www.landkreis-heilbronn.de/coronavirus-im-landkreis-heilbronn.44483.htm",
+    "areaId": 186,
+    "areaCode": "08125"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Hohenlohekreis, Landkreis",
+    "informationUrl": "https://www.corona-im-hok.de/",
+    "areaId": 187,
+    "areaCode": "08126"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Schwäbisch Hall, Landkreis",
+    "informationUrl": "https://www.lrasha.de/de/aktuelles/oeffentliche-bekanntmachungen?publish%5Bid%5D=1247782&publish%5Bstart%5D=&cHash=043eefbbaaa9bef69006a7d2df2fd256",
+    "areaId": 188,
+    "areaCode": "08127"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Main-Tauber-Kreis, Landkreis",
+    "informationUrl": "https://www.main-tauber-kreis.de/Quicknavigation/Startseite/Informationen-zum-Coronavirus-zur-Schutzimpfung.php?object=tx,2894.6&ModID=7&FID=2894.22611.1",
+    "areaId": 189,
+    "areaCode": "08128"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Heidenheim, Landkreis",
+    "informationUrl": "https://www.info-corona-lrahdh.de/startseite",
+    "areaId": 190,
+    "areaCode": "08135"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Ostalbkreis, Landkreis",
+    "informationUrl": "https://www.ostalbkreis.de/sixcms/detail.php?_topnav=36&_sub1=31788&_sub2=32062&_sub3=292448&id=292450",
+    "areaId": 191,
+    "areaCode": "08136"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Baden-Baden, Stadtkreis",
+    "informationUrl": "https://www.baden-baden.de/stadtportrait/aktuelles/themen/coronavirus/",
+    "areaId": 192,
+    "areaCode": "08211"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Karlsruhe, Stadtkreis",
+    "informationUrl": "https://corona.karlsruhe.de/",
+    "areaId": 193,
+    "areaCode": "08212"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Karlsruhe, Landkreis",
+    "informationUrl": "https://corona.karlsruhe.de/",
+    "areaId": 194,
+    "areaCode": "08215"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Rastatt, Landkreis",
+    "informationUrl": "https://www.landkreis-rastatt.de/Startseite/aktuelles/informationen+zum+coronavirus.html",
+    "areaId": 195,
+    "areaCode": "08216"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Heidelberg, Stadtkreis",
+    "informationUrl": "https://www.heidelberg.de/hd/coronavirus_+die+lage+in+heidelberg.html",
+    "areaId": 196,
+    "areaCode": "08221"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Mannheim, Stadtkreis",
+    "informationUrl": "https://www.mannheim.de/de/corona",
+    "areaId": 197,
+    "areaCode": "08222"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Neckar-Odenwald-Kreis, Landkreis",
+    "informationUrl": "https://www.neckar-odenwald-kreis.de/Aktuelle+Themen/Neuigkeiten/___AKTUELLES+UPDATE+%287_3_2020+um+14_00+Uhr%29___+Informationen+zu+dem+neuartigen+Coronavirus+%28SARS_CoV_2%29-p-5726.html",
+    "areaId": 198,
+    "areaCode": "08225"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Rhein-Neckar-Kreis, Landkreis",
+    "informationUrl": "https://www.rhein-neckar-kreis.de/start/landratsamt/coronavirus+-+faq.html",
+    "areaId": 199,
+    "areaCode": "08226"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Pforzheim, Stadtkreis",
+    "informationUrl": "https://www.pforzheim.de/stadt/aktuelles/corona-virus.html",
+    "areaId": 200,
+    "areaCode": "08231"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Calw, Landkreis",
+    "informationUrl": "https://www.kreis-calw.de/Service-Verwaltung/Service/Informationen-zum-Coronavirus/",
+    "areaId": 201,
+    "areaCode": "08235"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Enzkreis, Landkreis",
+    "informationUrl": "https://www.enzkreis.de/Kreis-Verwaltung/Bauen-Naturschutz-Umwelt-Gesundheit-und-Infrastruktur/Gesundheitsamt/Allgemeine-Informationen/Antworten-auf-die-h%C3%A4ufigsten-Fragen/",
+    "areaId": 202,
+    "areaCode": "08236"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Freudenstadt, Landkreis",
+    "informationUrl": "https://www.landkreis-freudenstadt.de/Startseite/Aktuell/Amtliche+Bekanntmachung.html",
+    "areaId": 203,
+    "areaCode": "08237"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Freiburg im Breisgau, Stadtkreis",
+    "informationUrl": "https://www.freiburg.de/pb/1615769.html",
+    "areaId": 204,
+    "areaCode": "08311"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Breisgau-Hochschwarzwald, Landkreis",
+    "informationUrl": "https://www.breisgau-hochschwarzwald.de/pb/Breisgau-Hochschwarzwald/Start/Service+_+Verwaltung/Corona-Virus.html",
+    "areaId": 205,
+    "areaCode": "08315"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Emmendingen, Landkreis",
+    "informationUrl": "https://www.landkreis-emmendingen.de//aktuelles/coronavirus/massnahmen-verordnungen",
+    "areaId": 206,
+    "areaCode": "08316"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Ortenaukreis, Landkreis",
+    "informationUrl": "https://www.ortenaukreis.de/Informationen-zu-CORONA-Kreisimpfzentren/Allgemeines/",
+    "areaId": 207,
+    "areaCode": "08317"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Rottweil, Landkreis",
+    "informationUrl": "https://www.landkreis-rottweil.de/corona",
+    "areaId": 208,
+    "areaCode": "08325"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Schwarzwald-Baar-Kreis, Landkreis",
+    "informationUrl": "https://www.lrasbk.de/Kurzmenü/Startseite/Infos-zum-Coronavirus.php?object=tx,2961.5&ModID=7&FID=2961.13112.1",
+    "areaId": 209,
+    "areaCode": "08326"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Tuttlingen, Landkreis",
+    "informationUrl": "https://www.landkreis-tuttlingen.de/Aktuelles/Informationen-zum-Coronavirus",
+    "areaId": 210,
+    "areaCode": "08327"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Konstanz, Landkreis",
+    "informationUrl": "https://www.lrakn.de/service-und-verwaltung/aemter/gesundheit+und+versorgung/coronavirus",
+    "areaId": 211,
+    "areaCode": "08335"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Lörrach, Landkreis",
+    "informationUrl": "https://www.loerrach-landkreis.de/corona",
+    "areaId": 212,
+    "areaCode": "08336"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Waldshut, Landkreis",
+    "informationUrl": "https://www.landkreis-waldshut.de",
+    "areaId": 213,
+    "areaCode": "08337"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Reutlingen, Landkreis",
+    "informationUrl": "https://www.kreis-reutlingen.de/coronavirus",
+    "areaId": 214,
+    "areaCode": "08415"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Tübingen, Landkreis",
+    "informationUrl": "https://www.kreis-tuebingen.de/corona.html",
+    "areaId": 215,
+    "areaCode": "08416"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Zollernalbkreis, Landkreis",
+    "informationUrl": "https://www.zollernalbkreis.de/coronavirus",
+    "areaId": 216,
+    "areaCode": "08417"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Ulm, Stadtkreis",
+    "informationUrl": "https://www.ulm.de/leben-in-ulm/gesundheit/corona",
+    "areaId": 217,
+    "areaCode": "08421"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Alb-Donau-Kreis, Landkreis",
+    "informationUrl": "https://www.alb-donau-kreis.de/startseite/corona/massnahmen.html",
+    "areaId": 218,
+    "areaCode": "08425"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Biberach, Landkreis",
+    "informationUrl": "https://www.biberach.de/landratsamt/kreisgesundheitsamt.html",
+    "areaId": 219,
+    "areaCode": "08426"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Bodenseekreis, Landkreis",
+    "informationUrl": "https://www.bodenseekreis.de/de/soziales-gesundheit/gesundheit/infektionsschutz/infektionskrankheiten/corona-virus/",
+    "areaId": 220,
+    "areaCode": "08435"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Ravensburg, Landkreis",
+    "informationUrl": "https://www.rv.de/Politik+_+Verwaltung/aktuelles+zum+coronavirus",
+    "areaId": 221,
+    "areaCode": "08436"
+  },
+  {
+    "stateId": 8,
+    "stateName": "Sigmaringen, Landkreis",
+    "informationUrl": "https://www.landkreis-sigmaringen.de/de/Landratsamt/Kreisverwaltung/Fachbereiche/Gesundheit/Informationen-zum-neuartigen-Coronavirus",
+    "areaId": 222,
+    "areaCode": "08437"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Ingolstadt, Kreisfreie Stadt",
+    "informationUrl": "https://www.ingolstadt.de/Rathaus/Aktuelles/Coronavirus/",
+    "areaId": 223,
+    "areaCode": "09161"
+  },
+  {
+    "stateId": 9,
+    "stateName": "München, Kreisfreie Stadt",
+    "informationUrl": "https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Infektionsschutz/Neuartiges_Coronavirus.html",
+    "areaId": 224,
+    "areaCode": "09162"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Rosenheim, Kreisfreie Stadt",
+    "informationUrl": "https://www.rosenheim.de/stadt-buerger/sicherheit-und-ordnung/corona-pandemie/allgemeinverfuegverordnungen.html",
+    "areaId": 225,
+    "areaCode": "09163"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Altötting, Landkreis",
+    "informationUrl": "https://www.lra-aoe.de/informationen-zu-corona/coronavirus-covid-19-im-landkreis-altoetting",
+    "areaId": 226,
+    "areaCode": "09171"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Berchtesgadener Land, Landkreis",
+    "informationUrl": "https://www.berchtesgadener-land.de/wirtschaftsraum/coronavirusmassnahmen",
+    "areaId": 227,
+    "areaCode": "09172"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Bad Tölz-Wolfratshausen, Landkreis",
+    "informationUrl": "https://www.lra-toelz.de/rechtsgrundlagen",
+    "areaId": 228,
+    "areaCode": "09173"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Dachau, Landkreis",
+    "informationUrl": "https://www.landratsamt-dachau.de/gesundheit-veterinaerwesen-sicherheitsrecht/gesundheit/coronavirus/aktuelle-regelungen-fuer-den-landkreis/",
+    "areaId": 229,
+    "areaCode": "09174"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Ebersberg, Landkreis",
+    "informationUrl": "https://lra-ebe.de/aktuelles/informationen-zum-corona-virus/7-tage-inzidenz/",
+    "areaId": 230,
+    "areaCode": "09175"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Eichstätt, Landkreis",
+    "informationUrl": "https://www.landkreis-eichstaett.de/aktuelles/amtsblatt/",
+    "areaId": 231,
+    "areaCode": "09176"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Erding, Landkreis",
+    "informationUrl": "https://www.landkreis-erding.de/aktuell/coronavirus-aktuelle-info/coronavirus/",
+    "areaId": 232,
+    "areaCode": "09177"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Freising, Landkreis",
+    "informationUrl": "https://www.kreis-freising.de/news-veranstaltungen/news/detail/news/detail/News/aktuelle-informationen-zum-coronavirus-covid-19.html?no_cache=1&cHash=ad817213a4637dc739f3ed46f92e26ac",
+    "areaId": 233,
+    "areaCode": "09178"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Fürstenfeldbruck, Landkreis",
+    "informationUrl": "https://www.lra-ffb.de/aktuelles/corona-informationen/corona-statistik-infizierte-genesene-verstorbene-und-geimpfte-im-landkreis",
+    "areaId": 234,
+    "areaCode": "09179"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Garmisch-Partenkirchen, Landkreis",
+    "informationUrl": "https://www.lra-gap.de/de/coronavirus.html",
+    "areaId": 235,
+    "areaCode": "09180"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Landsberg am Lech, Landkreis",
+    "informationUrl": "https://www.landkreis-landsberg.de/aktuelles/fragen-antworten-zu-corona/",
+    "areaId": 236,
+    "areaCode": "09181"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Miesbach, Landkreis",
+    "informationUrl": "https://www.landkreis-miesbach.de/coronavirus",
+    "areaId": 237,
+    "areaCode": "09182"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Mühldorf a. Inn, Landkreis",
+    "informationUrl": "https://www.lra-mue.de/aktuelle-regelungen.html",
+    "areaId": 238,
+    "areaCode": "09183"
+  },
+  {
+    "stateId": 9,
+    "stateName": "München, Landkreis",
+    "informationUrl": "https://www.muenchen.de/rathaus/Stadtverwaltung/Referat-fuer-Gesundheit-und-Umwelt/Infektionsschutz/Neuartiges_Coronavirus.html",
+    "areaId": 239,
+    "areaCode": "09184"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Neuburg-Schrobenhausen, Landkreis",
+    "informationUrl": "https://www.neuburg-schrobenhausen.de/informationen-zum-coronavirus-1",
+    "areaId": 240,
+    "areaCode": "09185"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Pfaffenhofen a.d. Ilm, Landkreis",
+    "informationUrl": "https://pfaffenhofen.de/artikel/coronavirus_informationen/#Coronainfos",
+    "areaId": 241,
+    "areaCode": "09186"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Rosenheim, Landkreis",
+    "informationUrl": "https://www.landkreis-rosenheim.de/covid-19/#covid-19-antworten-auf-haeufig-gestellte-fragen",
+    "areaId": 242,
+    "areaCode": "09187"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Starnberg, Landkreis",
+    "informationUrl": "https://www.lk-starnberg.de/coronavirus_allgemeinverfuegungen",
+    "areaId": 243,
+    "areaCode": "09188"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Traunstein, Landkreis",
+    "informationUrl": "https://www.traunstein.com/aktuelles/meldungen/infos-rund-um-das-coronavirus",
+    "areaId": 244,
+    "areaCode": "09189"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Weilheim-Schongau, Landkreis",
+    "informationUrl": "https://www.weilheim-schongau.de/corona/",
+    "areaId": 245,
+    "areaCode": "09190"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Landshut, Kreisfreie Stadt",
+    "informationUrl": "http://www.landshut.de/portal/rathaus/referat-1/hauptamt/informationen-zum-corona-virus.html",
+    "areaId": 246,
+    "areaCode": "09261"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Passau, Kreisfreie Stadt",
+    "informationUrl": "https://www.passau.de/Rathaus-Politik/ThemaCoronavirus(SARS-CoV-2).aspx",
+    "areaId": 247,
+    "areaCode": "09262"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Straubing, Kreisfreie Stadt",
+    "informationUrl": "https://www.landkreis-straubing-bogen.de/buergerservice/informationen-zum-corona-virus",
+    "areaId": 248,
+    "areaCode": "09263"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Deggendorf, Landkreis",
+    "informationUrl": "https://corona.landkreis-deggendorf.de/pressemitteilungen-zu-corona/lockdown-bis-7-maerz-2021-verlaengert-oeffnungsschritte-beschlossen/",
+    "areaId": 249,
+    "areaCode": "09271"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Freyung-Grafenau, Landkreis",
+    "informationUrl": "https://www.freyung-grafenau.de//gesundheit-und-soziales/gesundheitswesen/hygiene/infektionsschutz/corona-virus/aktuelle-regelungen/",
+    "areaId": 250,
+    "areaCode": "09272"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Kelheim, Landkreis",
+    "informationUrl": "https://www.landkreis-kelheim.de/amt-service/meldungen/aktuelle-corona-lage-sonntag-den-28022021/",
+    "areaId": 251,
+    "areaCode": "09273"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Landshut, Landkreis",
+    "informationUrl": "https://www.landkreis-landshut.de/Landratsamt/Corona/WichtigeInfos-Links.aspx",
+    "areaId": 252,
+    "areaCode": "09274"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Passau, Landkreis",
+    "informationUrl": "https://www.landkreis-passau.de/landkreis-verwaltung-politik/aktuelles/aktuelle-meldungen/corona-neue-infektionsschutzmassnahmen/",
+    "areaId": 253,
+    "areaCode": "09275"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Regen, Landkreis",
+    "informationUrl": "https://www.landkreis-regen.de/aktuelle-corona-regeln/",
+    "areaId": 254,
+    "areaCode": "09276"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Rottal-Inn, Landkreis",
+    "informationUrl": "https://www.rottal-inn.de/buergerservice-formulare/gesundheitsamt/coronavirus-aktuelle-informationen/hinweise-fuer-rottal-inn/",
+    "areaId": 255,
+    "areaCode": "09277"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Straubing-Bogen, Landkreis",
+    "informationUrl": "https://www.landkreis-straubing-bogen.de/buergerservice/informationen-zum-corona-virus/",
+    "areaId": 256,
+    "areaCode": "09278"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Dingolfing-Landau, Landkreis",
+    "informationUrl": "https://www.landkreis-dingolfing-landau.de/buergerservice/coronavirus/informationen-fuer-buerger/",
+    "areaId": 257,
+    "areaCode": "09279"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Amberg, Kreisfreie Stadt",
+    "informationUrl": "https://www.amberg.de/corona",
+    "areaId": 258,
+    "areaCode": "09361"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Regensburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.regensburg.de/aktuelles/coronavirus",
+    "areaId": 259,
+    "areaCode": "09362"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Weiden i.d. OPf., Kreisfreie Stadt",
+    "informationUrl": "https://www.weiden.de/stadt/rathaus/covid-19-aktuell",
+    "areaId": 260,
+    "areaCode": "09363"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Amberg-Sulzbach, Landkreis",
+    "informationUrl": "https://www.kreis-as.de/Gesundheit-Verbraucherschutz/Gesundheit/Coronavirus/",
+    "areaId": 261,
+    "areaCode": "09371"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Cham, Landkreis",
+    "informationUrl": "https://www.landkreis-cham.de/aktuelles-nachrichten/coronavirus/",
+    "areaId": 262,
+    "areaCode": "09372"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Neumarkt i.d. OPf., Landkreis",
+    "informationUrl": "https://www.landkreis-neumarkt.de/hp794/Aktuelles.htm",
+    "areaId": 263,
+    "areaCode": "09373"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Neustadt a.d. Waldnaab, Landkreis",
+    "informationUrl": "https://www.neustadt.de/landkreis-aktuelles/coronavirus/",
+    "areaId": 264,
+    "areaCode": "09374"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Regensburg, Landkreis",
+    "informationUrl": "https://www.landkreis-regensburg.de/unser-landkreis/aktuelles/coronavirus/corona-im-landkreis/",
+    "areaId": 265,
+    "areaCode": "09375"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Schwandorf, Landkreis",
+    "informationUrl": "https://www.landkreis-schwandorf.de/Familie-Soziales-Gesundheit/Coronavirus",
+    "areaId": 266,
+    "areaCode": "09376"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Tirschenreuth, Landkreis",
+    "informationUrl": "https://www.kreis-tir.de/fachbereiche/gesundheitsamt/informationen-zum-corona-virus/",
+    "areaId": 267,
+    "areaCode": "09377"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Bamberg, Kreisfreie Stadt",
+    "informationUrl": "https://www.stadt.bamberg.de/Leben/Gesundheit/Alles-Wichtige-zu-Corona/",
+    "areaId": 268,
+    "areaCode": "09461"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Bayreuth, Kreisfreie Stadt",
+    "informationUrl": "https://www.bayreuth.de/info-zu-inzidenzwert/",
+    "areaId": 269,
+    "areaCode": "09462"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Coburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.cottbus.de/verwaltung/gb_iii/gesundheit/corona/index.html",
+    "areaId": 270,
+    "areaCode": "09463"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Hof, Kreisfreie Stadt",
+    "informationUrl": "https://www.hof.de/hof/hof_deu/aktuelles/corona-pandemie-02.html",
+    "areaId": 271,
+    "areaCode": "09464"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Bamberg, Landkreis",
+    "informationUrl": "https://www.landkreis-bamberg.de/Kurzmenü/Startseite/Aktuelle-Corona-Statistik.php?object=tx,2892.5&ModID=7&FID=2976.2576.1",
+    "areaId": 272,
+    "areaCode": "09471"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Bayreuth, Landkreis",
+    "informationUrl": "https://www.landkreis-bayreuth.de/umwelt-gesundheit/coronavirus-wir-informieren/allgemeine-informationen/",
+    "areaId": 273,
+    "areaCode": "09472"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Coburg, Landkreis",
+    "informationUrl": "https://www.landkreis-coburg.de/2836-0-CORONA-VIRUS.html",
+    "areaId": 274,
+    "areaCode": "09473"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Forchheim, Landkreis",
+    "informationUrl": "https://www.lra-fo.de/site/1_1corona/informationen.php",
+    "areaId": 275,
+    "areaCode": "09474"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Hof, Landkreis",
+    "informationUrl": "https://www.landkreis-hof.de/coronavirus-wir-informieren/",
+    "areaId": 276,
+    "areaCode": "09475"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Kronach, Landkreis",
+    "informationUrl": "https://www.landkreis-kronach.de/aktuelles/meldungen/aktuelle-informationen-zur-coronavirus-pandemie/",
+    "areaId": 277,
+    "areaCode": "09476"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Kulmbach, Landkreis",
+    "informationUrl": "https://www.landkreis-kulmbach.de/landkreis-kulmbach/coronavirus/allgemeinverfuegungen/",
+    "areaId": 278,
+    "areaCode": "09477"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Lichtenfels, Landkreis",
+    "informationUrl": "https://www.lkr-lif.de/landratsamt/gesundheit-und-verbraucherschutz/gesundheitswesen/informationen-fuer-die-buerger/coronavirus/index.html",
+    "areaId": 279,
+    "areaCode": "09478"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Wunsiedel i. Fichtelgebirge, Landkreis",
+    "informationUrl": "https://www.landkreis-wunsiedel.de/buergerservice/aktuelle-informationen-zum-coronavirus-sars-cov-2#",
+    "areaId": 280,
+    "areaCode": "09479"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Ansbach, Kreisfreie Stadt",
+    "informationUrl": "https://www.ansbach.de/Bürger/Sicherheit-Ordnung/Informationen-zum-Coronavirus/",
+    "areaId": 281,
+    "areaCode": "09561"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Erlangen, Kreisfreie Stadt",
+    "informationUrl": "https://www.erlangen.de/desktopdefault.aspx/tabid-2066/",
+    "areaId": 282,
+    "areaCode": "09562"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Fürth, Kreisfreie Stadt",
+    "informationUrl": "https://www.fuerth.de/Home/Leben-in-Fuerth/coronavirus.aspx",
+    "areaId": 283,
+    "areaCode": "09563"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Nürnberg, Kreisfreie Stadt",
+    "informationUrl": "https://www.nuernberg.de/internet/stadtportal/coronavirus.html#247",
+    "areaId": 284,
+    "areaCode": "09564"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Schwabach, Kreisfreie Stadt",
+    "informationUrl": "https://www.schwabach.de/de/stadtverwaltung/oberbuergermeister/97-buergermeister-und-presseamt/98-neues-aus-dem-buergermeister-und-presseamt/9029-massnahmen-zur-pandemie-bekaempfung-ab-mittwoch-16-dezember.html",
+    "areaId": 285,
+    "areaCode": "09565"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Ansbach, Landkreis",
+    "informationUrl": "https://www.landkreis-ansbach.de/Corona/Aktuelle-Maßnahmen/",
+    "areaId": 286,
+    "areaCode": "09571"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Erlangen-Höchstadt, Landkreis",
+    "informationUrl": "https://www.erlangen-hoechstadt.de/aktuelles/infos-zum-coronavirus/",
+    "areaId": 287,
+    "areaCode": "09572"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Fürth, Landkreis",
+    "informationUrl": "https://www.landkreis-fuerth.de/corona.html",
+    "areaId": 288,
+    "areaCode": "09573"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Nürnberger Land, Landkreis",
+    "informationUrl": "https://landkreis.nuernberger-land.de/index.php?id=6089",
+    "areaId": 289,
+    "areaCode": "09574"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Neustadt a.d. Aisch-Bad Windsheim, Landkreis",
+    "informationUrl": "https://www.kreis-nea.de/service-themen/gesundheit-soziales/aktuelle-situation-coronavirus-sars-cov-2/aktuelle-massnahmen-im-landkreis.html",
+    "areaId": 290,
+    "areaCode": "09575"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Roth, Landkreis",
+    "informationUrl": "https://www.landratsamt-roth.de/corona?sub=corona-infos",
+    "areaId": 291,
+    "areaCode": "09576"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Weißenburg-Gunzenhausen, Landkreis",
+    "informationUrl": "https://www.landkreis-wug.de/gesundheit/coronavirus/",
+    "areaId": 292,
+    "areaCode": "09577"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Aschaffenburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.corona-katastrophenschutz.bayern.de/faq/index.php",
+    "areaId": 293,
+    "areaCode": "09661"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Schweinfurt, Kreisfreie Stadt",
+    "informationUrl": "https://www.landkreis-schweinfurt.de/service-infos/serviceleistungen-informationen/ServiceInfos/detail/corona-faqs-zu-gueltigen-allgemeinverfuegungen-und-zur-bayerischen-infektionsschutzmassnahmenverordnung-1886",
+    "areaId": 294,
+    "areaCode": "09662"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Würzburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.wuerzburg.de/coronainfo/startseite/index.html",
+    "areaId": 295,
+    "areaCode": "09663"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Aschaffenburg, Landkreis",
+    "informationUrl": "https://www.landkreis-aschaffenburg.de/wer-macht-was/gesund-soziales/gesund/corona/informationen/",
+    "areaId": 296,
+    "areaCode": "09671"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Bad Kissingen, Landkreis",
+    "informationUrl": "https://www.landkreis-badkissingen.de/buerger--politik/aktuelle-meldungen/informationen-zum-corona-virus/10681.Aktuelle-Meldungen-zum-Coronavirus.html",
+    "areaId": 297,
+    "areaCode": "09672"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Rhön-Grabfeld, Landkreis",
+    "informationUrl": "https://www.rhoen-grabfeld.de/Aktuell/Corona-Situation/Amtliche-Verfuegungen-und-Hinweise",
+    "areaId": 298,
+    "areaCode": "09673"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Haßberge, Landkreis",
+    "informationUrl": "https://www.hassberge.de/topmenu/startseite/corona-virus.html",
+    "areaId": 299,
+    "areaCode": "09674"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Kitzingen, Landkreis",
+    "informationUrl": "https://www.kitzingen.de/buergerservice/aktuelles/aktuelles-2020/uebersichtsseite-corona/",
+    "areaId": 300,
+    "areaCode": "09675"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Miltenberg, Landkreis",
+    "informationUrl": "https://www.landkreis-miltenberg.de/Landkreis/Aktuell/Coronavirus/Coronavirus-Rechtsgrundlagen.aspx",
+    "areaId": 301,
+    "areaCode": "09676"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Main-Spessart, Landkreis",
+    "informationUrl": "https://www.main-spessart.de/aktuelles/pressemitteilungen/4907.Aktuelle-Situation.html",
+    "areaId": 302,
+    "areaCode": "09677"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Schweinfurt, Landkreis",
+    "informationUrl": "https://www.landkreis-schweinfurt.de/service-infos/serviceleistungen-informationen/ServiceInfos/detail/corona-faqs-zu-gueltigen-allgemeinverfuegungen-und-zur-bayerischen-infektionsschutzmassnahmenverordnung-1886",
+    "areaId": 303,
+    "areaCode": "09678"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Würzburg, Landkreis",
+    "informationUrl": "https://www.landkreis-wuerzburg.de/Auf-einen-Klick/Aktuelles/Coronavirus/Öffentliches-Leben/",
+    "areaId": 304,
+    "areaCode": "09679"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Augsburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.augsburg.de/umwelt-soziales/gesundheit/coronavirus/vor-infektionen-schuetzen#c1067624",
+    "areaId": 305,
+    "areaCode": "09761"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Kaufbeuren, Kreisfreie Stadt",
+    "informationUrl": "https://www.kaufbeuren.de/nav/buergerservice/coronavirus.aspx",
+    "areaId": 306,
+    "areaCode": "09762"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Kempten (Allgäu), Kreisfreie Stadt",
+    "informationUrl": "https://www.kempten.de/corona-20314.html",
+    "areaId": 307,
+    "areaCode": "09763"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Memmingen, Kreisfreie Stadt",
+    "informationUrl": "https://www.memmingen.de/aktuell-presse/nachrichten-und-termine/aktuell/informationen-corona.html",
+    "areaId": 308,
+    "areaCode": "09764"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Aichach-Friedberg, Landkreis",
+    "informationUrl": "https://lra-aic-fdb.de/landratsamt/fachbereiche/abteilung-3-oeffentliche-sicherheit/gesundheitsamt/informationen-zum-coronavirus/gesundheit",
+    "areaId": 309,
+    "areaCode": "09771"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Augsburg, Landkreis",
+    "informationUrl": "https://www.landkreis-augsburg.de/index.php?id=2764",
+    "areaId": 310,
+    "areaCode": "09772"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Dillingen a.d. Donau, Landkreis",
+    "informationUrl": "https://www.landkreis-dillingen.de",
+    "areaId": 311,
+    "areaCode": "09773"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Günzburg, Landkreis",
+    "informationUrl": "https://www.landkreis-guenzburg.de/covid-19",
+    "areaId": 312,
+    "areaCode": "09774"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Neu-Ulm, Landkreis",
+    "informationUrl": "https://landkreis.neu-ulm.de/de/bayernweite-regeln.html",
+    "areaId": 313,
+    "areaCode": "09775"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Lindau (Bodensee), Landkreis",
+    "informationUrl": "https://www.landkreis-lindau.de/Coronavirus/Maßnahmen-und-Regelungen/",
+    "areaId": 314,
+    "areaCode": "09776"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Ostallgäu, Landkreis",
+    "informationUrl": "https://www.landkreis-ostallgaeu.de/corona-faq.html",
+    "areaId": 315,
+    "areaCode": "09777"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Unterallgäu, Landkreis",
+    "informationUrl": "https://www.landratsamt-unterallgaeu.de/buergerservice/gesundheit/coronavirus",
+    "areaId": 316,
+    "areaCode": "09778"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Donau-Ries, Landkreis",
+    "informationUrl": "https://www.donau-ries.de/Buergerservice/Aufgabenbereiche/Gesundheitsamt-Humanmedizin.aspx?view=~/kxp/orgdata/default&orgid=b555d671-f503-470e-9b9c-d5199ef3703f",
+    "areaId": 317,
+    "areaCode": "09779"
+  },
+  {
+    "stateId": 9,
+    "stateName": "Oberallgäu, Landkreis",
+    "informationUrl": "https://www.oberallgaeu.org/de/gesundheit-von-mensch-und-tier/gesundheitsamt/corona.html",
+    "areaId": 318,
+    "areaCode": "09780"
+  },
+  {
+    "stateId": 10,
+    "stateName": "Regionalverband Saarbrücken, Landkreis",
+    "informationUrl": "https://www.regionalverband-saarbruecken.de/corona/",
+    "areaId": 319,
+    "areaCode": "10041"
+  },
+  {
+    "stateId": 10,
+    "stateName": "Merzig-Wadern, Landkreis",
+    "informationUrl": "https://www.merzig-wadern.de/Verwaltung-Politik/Coronavirus-Infos-auf-einen-Blick/",
+    "areaId": 320,
+    "areaCode": "10042"
+  },
+  {
+    "stateId": 10,
+    "stateName": "Neunkirchen, Landkreis",
+    "informationUrl": "https://www.neukirchen-erzgebirge.de/aktuelles/",
+    "areaId": 321,
+    "areaCode": "10043"
+  },
+  {
+    "stateId": 10,
+    "stateName": "Saarlouis, Landkreis",
+    "informationUrl": "https://www.kreis-saarlouis.de/Seiten/Corona-Virus.html?",
+    "areaId": 322,
+    "areaCode": "10044"
+  },
+  {
+    "stateId": 10,
+    "stateName": "Saarpfalz-Kreis, Landkreis",
+    "informationUrl": "https://www.saarpfalz-kreis.de/leben-soziales-gesundheit/gesundheit/coronavirus",
+    "areaId": 323,
+    "areaCode": "10045"
+  },
+  {
+    "stateId": 10,
+    "stateName": "St. Wendel, Landkreis",
+    "informationUrl": "https://www.landkreis-st-wendel.de/leben-soziales-gesundheit/gesundheitsamt/informationen-zum-coronavirus",
+    "areaId": 324,
+    "areaCode": "10046"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Brandenburg an der Havel, Kreisfreie Stadt",
+    "informationUrl": "https://www.stadt-brandenburg.de/leben/gesundheit/coronavirus-sars-cov-2#c24279",
+    "areaId": 326,
+    "areaCode": "12051"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Cottbus, Kreisfreie Stadt",
+    "informationUrl": "https://www.cottbus.de/verwaltung/gb_iii/gesundheit/corona/index.html",
+    "areaId": 327,
+    "areaCode": "12052"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Frankfurt (Oder), Kreisfreie Stadt",
+    "informationUrl": "https://frankfurt.de/service-und-rathaus/verwaltung/aemter-und-institutionen/gesundheitsamt/informationen-zum-neuartigen-coronavirus-sars-cov-2",
+    "areaId": 328,
+    "areaCode": "12053"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Potsdam, Kreisfreie Stadt",
+    "informationUrl": "https://www.potsdam.de/formulare-und-dokumente",
+    "areaId": 329,
+    "areaCode": "12054"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Barnim, Landkreis",
+    "informationUrl": "https://covid19.barnim.de/verordnungen-verfuegungen",
+    "areaId": 330,
+    "areaCode": "12060"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Dahme-Spreewald, Landkreis",
+    "informationUrl": "https://www.dahme-spreewald.info/de/Aktuelles/Informationen_zum_Coronavirus/58807.html",
+    "areaId": 331,
+    "areaCode": "12061"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Elbe-Elster, Landkreis",
+    "informationUrl": "https://www.lkee.de/Service-Verwaltung/Kreisverwaltung/Gesundheitsamt/Coronavirus/index.php?La=1&object=tx,2112.3692.1&kat=&kuo=2&sub=0",
+    "areaId": 332,
+    "areaCode": "12062"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Havelland, Landkreis",
+    "informationUrl": "https://www.havelland.de/coronavirus/links/downloads/",
+    "areaId": 333,
+    "areaCode": "12063"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Märkisch-Oderland, Landkreis",
+    "informationUrl": "https://www.maerkisch-oderland.de/de/infos-und-regeln.html",
+    "areaId": 334,
+    "areaCode": "12064"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Oberhavel, Landkreis",
+    "informationUrl": "https://www.oberhavel.de/Bürgerservice/Gesundheit/Aktuelles-zum-Coronavirus/",
+    "areaId": 335,
+    "areaCode": "12065"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Oberspreewald-Lausitz, Landkreis",
+    "informationUrl": "https://www.osl-online.de/seite/447426/informationen-zum-coronavirus.html",
+    "areaId": 336,
+    "areaCode": "12066"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Oder-Spree, Landkreis",
+    "informationUrl": "https://www.landkreis-oder-spree.de/Service-Aktuelles/Aktuelles/Coronavirus/",
+    "areaId": 337,
+    "areaCode": "12067"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Ostprignitz-Ruppin, Landkreis",
+    "informationUrl": "https://www.ostprignitz-ruppin.de/index.phtml?La=1&sNavID=353.254&mNavID=1854.4&object=tx,353.5761.1&kat=&kuo=2&sub=0&NavID=1854.14",
+    "areaId": 338,
+    "areaCode": "12068"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Potsdam-Mittelmark, Landkreis",
+    "informationUrl": "https://www.potsdam-mittelmark.de/de/buergerservice/rechtliches-zum-corona-virus/",
+    "areaId": 339,
+    "areaCode": "12069"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Prignitz, Landkreis",
+    "informationUrl": "https://www.landkreis-prignitz.de/de/gesundheit-soziales/gesundheit/Informationen_corona_verfuegungen.php",
+    "areaId": 340,
+    "areaCode": "12070"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Spree-Neiße, Landkreis",
+    "informationUrl": "https://www.lkspn.de/aktuelles/coronavirus/informationen_coronavirus.html",
+    "areaId": 341,
+    "areaCode": "12071"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Teltow-Fläming, Landkreis",
+    "informationUrl": "http://www.teltow-flaeming.de/de/service/gesundheit/corona-virus/allgemeinverfuegungen.php",
+    "areaId": 342,
+    "areaCode": "12072"
+  },
+  {
+    "stateId": 12,
+    "stateName": "Uckermark, Landkreis",
+    "informationUrl": "https://www.uckermark.de/index.phtml?La=1&mNavID=1897.1&object=tx,2203.450.1&kat=&kuo=2&sub=0",
+    "areaId": 343,
+    "areaCode": "12073"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Rostock, Kreisfreie Stadt",
+    "informationUrl": "https://www.schwerin.de/mein-schwerin/leben/gesundheit/infektionsschutz-hygiene/informationen-zum-coronavirus/",
+    "areaId": 344,
+    "areaCode": "13003"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Schwerin, Kreisfreie Stadt",
+    "informationUrl": "https://www.schwerin.de/mein-schwerin/leben/gesundheit/infektionsschutz-hygiene/informationen-zum-coronavirus/",
+    "areaId": 345,
+    "areaCode": "13004"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Mecklenburgische Seenplatte, Landkreis",
+    "informationUrl": "https://www.lk-mecklenburgische-seenplatte.de/Corona/",
+    "areaId": 346,
+    "areaCode": "13071"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Rostock, Landkreis",
+    "informationUrl": "https://www.landkreis-rostock.de/landkreis/aktuelles/news/2021/Ticker_Covid19",
+    "areaId": 347,
+    "areaCode": "13072"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Vorpommern-Rügen, Landkreis",
+    "informationUrl": "https://www.lk-vr.de/Corona",
+    "areaId": 348,
+    "areaCode": "13073"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Nordwestmecklenburg, Landkreis",
+    "informationUrl": "https://www.nordwestmecklenburg.de/de/corona.html",
+    "areaId": 349,
+    "areaCode": "13074"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Vorpommern-Greifswald, Landkreis",
+    "informationUrl": "https://corona.kreis-vg.de/PDF/14_01_2021_Allgemeinverfügung_LK_VG_über_die_häusliche_Absonderung_von_Personen_die_mit_SARS_VoV_2_infiziert_sind_und_Kontaktpersonen_zur_Eindämmung_und_zum_Schutz_vor_Verbreitung_von_COVID_19.PDF?ObjSvrID=3416&ObjID=344&ObjLa=1&Ext=PDF&WTR=1&_ts=1610638158",
+    "areaId": 350,
+    "areaCode": "13075"
+  },
+  {
+    "stateId": 13,
+    "stateName": "Ludwigslust-Parchim, Landkreis",
+    "informationUrl": "https://www.kreis-lup.de/corona/",
+    "areaId": 351,
+    "areaCode": "13076"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Chemnitz, Kreisfreie Stadt",
+    "informationUrl": "https://www.chemnitz.de/chemnitz/de/leben-in-chemnitz/gesundheit/gesundheitsschutz/coronavirus/index.html#collapseOne_2_5_321_0",
+    "areaId": 352,
+    "areaCode": "14511"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Erzgebirgskreis, Landkreis",
+    "informationUrl": "https://www.erzgebirgskreis.de/de/aktuelles/coronavirus/allgemeine-corona-informationen/",
+    "areaId": 353,
+    "areaCode": "14521"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Mittelsachsen, Landkreis",
+    "informationUrl": "https://www.landkreis-mittelsachsen.de/das-amt/behoerden/regelungen-des-landkreises.html",
+    "areaId": 354,
+    "areaCode": "14522"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Vogtlandkreis, Landkreis",
+    "informationUrl": "https://www.landkreis-zwickau.de/corona-virus-informationen",
+    "areaId": 355,
+    "areaCode": "14523"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Zwickau, Landkreis",
+    "informationUrl": "https://www.landkreis-zwickau.de/corona-virus-informationen",
+    "areaId": 356,
+    "areaCode": "14524"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Dresden, Kreisfreie Stadt",
+    "informationUrl": "https://www.dresden.de/de/leben/gesundheit/hygiene/infektionsschutz/corona.php?pk_campaign=Shortcut&pk_kwd=corona",
+    "areaId": 357,
+    "areaCode": "14612"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Bautzen, Landkreis",
+    "informationUrl": "https://www.landkreis-bautzen.de/coronavirus.php",
+    "areaId": 358,
+    "areaCode": "14625"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Görlitz, Landkreis",
+    "informationUrl": "https://www.kreis-goerlitz.de/city_info/webaccessibility/index.cfm?waid=390",
+    "areaId": 359,
+    "areaCode": "14626"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Meißen, Landkreis",
+    "informationUrl": "http://www.kreis-meissen.org/15946.html",
+    "areaId": 360,
+    "areaCode": "14627"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Sächsische Schweiz-Osterzgebirge, Landkreis",
+    "informationUrl": "https://www.landratsamt-pirna.de/corona-bekanntmachungen.html",
+    "areaId": 361,
+    "areaCode": "14628"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Leipzig, Kreisfreie Stadt",
+    "informationUrl": "https://www.leipzig.de/news/news/corona-massnahmen-der-stadt-leipzig/",
+    "areaId": 362,
+    "areaCode": "14713"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Leipzig, Landkreis",
+    "informationUrl": "https://www.landkreisleipzig.de/corona_virus.html",
+    "areaId": 363,
+    "areaCode": "14729"
+  },
+  {
+    "stateId": 14,
+    "stateName": "Nordsachsen, Landkreis",
+    "informationUrl": "https://www.landkreis-nordsachsen.de/infos_zum_corona_virus-a-9234.html",
+    "areaId": 364,
+    "areaCode": "14730"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Dessau-Roßlau, Kreisfreie Stadt",
+    "informationUrl": "https://verwaltung.dessau-rosslau.de/amtliches/allgemeinverfuegungen-erlasse-und-verordnungen-corona-virus.html",
+    "areaId": 365,
+    "areaCode": "15001"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Halle (Saale), Kreisfreie Stadt",
+    "informationUrl": "https://m.halle.de/de/Verwaltung/Presseportal/Nachrichten/m.aspx?NewsId=45334",
+    "areaId": 366,
+    "areaCode": "15002"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Magdeburg, Kreisfreie Stadt",
+    "informationUrl": "https://www.magdeburg.de/Start/Bürger-Stadt/Aktuelles-Presse/Coronavirus-Covid-19/Verordnungen-Anweisungen/",
+    "areaId": 367,
+    "areaCode": "15003"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Altmarkkreis Salzwedel, Landkreis",
+    "informationUrl": "https://www.altmarkkreis-salzwedel.de/buerger-presseservice/presseservice/pressemitteilungen-neuigkeiten-pressebilder/corona-aktuell-21-09-2020.aspx",
+    "areaId": 368,
+    "areaCode": "15081"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Anhalt-Bitterfeld, Landkreis",
+    "informationUrl": "https://www.anhalt-bitterfeld.de/de/covid19.html",
+    "areaId": 369,
+    "areaCode": "15082"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Börde, Landkreis",
+    "informationUrl": "https://www.landkreis-boerde.de/menschen/gesundheit/coronavirus/",
+    "areaId": 370,
+    "areaCode": "15083"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Burgenlandkreis, Landkreis",
+    "informationUrl": "https://corona.burgenlandkreis.de/de/corona.html",
+    "areaId": 371,
+    "areaCode": "15084"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Harz, Landkreis",
+    "informationUrl": "https://www.kreis-hz.de/de/allgemeinverfuegungen-und-erlasse.html",
+    "areaId": 372,
+    "areaCode": "15085"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Jerichower Land, Landkreis",
+    "informationUrl": "https://www.lkjl.de/de/allgemeinverfuegungenverordnungen.html",
+    "areaId": 373,
+    "areaCode": "15086"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Mansfeld-Südharz, Landkreis",
+    "informationUrl": "https://www.mansfeldsuedharz.de/de/corona-schulstart-mit-rahmenplan-fuer-hygienemasznahmen.html",
+    "areaId": 374,
+    "areaCode": "15087"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Saalekreis, Landkreis",
+    "informationUrl": "https://www.saalekreis.de/de/informationen-corona.html",
+    "areaId": 375,
+    "areaCode": "15088"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Salzlandkreis, Landkreis",
+    "informationUrl": "https://www.salzlandkreis.de/verwaltung/fachdienste-plattform/34-gesundheit/corona-virus/#recht",
+    "areaId": 376,
+    "areaCode": "15089"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Stendal, Landkreis",
+    "informationUrl": "https://www.landkreis-stendal.de/de/anordnungen-verfuegungen.html",
+    "areaId": 377,
+    "areaCode": "15090"
+  },
+  {
+    "stateId": 15,
+    "stateName": "Wittenberg, Landkreis",
+    "informationUrl": "https://www.landkreis-wittenberg.de/de/informationen-zum-coronavirus-im-landkreis-wittenberg/informationen-zum-coronavirus.html",
+    "areaId": 378,
+    "areaCode": "15091"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Erfurt, Kreisfreie Stadt",
+    "informationUrl": "https://www.erfurt.de/ef/de/rathaus/sv/allgemeinverfuegungen/135384.html",
+    "areaId": 379,
+    "areaCode": "16051"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Gera, Kreisfreie Stadt",
+    "informationUrl": "https://unser.gera.de/corona/verordnungen/",
+    "areaId": 380,
+    "areaCode": "16052"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Jena, Kreisfreie Stadt",
+    "informationUrl": "https://gesundheit.jena.de/de/coronavirus",
+    "areaId": 381,
+    "areaCode": "16053"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Suhl, Kreisfreie Stadt",
+    "informationUrl": "https://www.suhltrifft.de/content/blogsection/43/2264/",
+    "areaId": 382,
+    "areaCode": "16054"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Weimar, Kreisfreie Stadt",
+    "informationUrl": "https://stadt.weimar.de/aktuell/coronavirus/allgemeinverfuegungen/",
+    "areaId": 383,
+    "areaCode": "16055"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Eisenach, Kreisfreie Stadt",
+    "informationUrl": "https://www.eisenach.de/service/corona-infos",
+    "areaId": 384,
+    "areaCode": "16056"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Eichsfeld, Landkreis",
+    "informationUrl": "https://www.kreis-eic.de/informationen-zum-coronavirus.html",
+    "areaId": 385,
+    "areaCode": "16061"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Nordhausen, Landkreis",
+    "informationUrl": "https://www.landratsamt-nordhausen.de/informationen-coronavirus.html",
+    "areaId": 386,
+    "areaCode": "16062"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Wartburgkreis, Landkreis",
+    "informationUrl": "https://www.wartburgkreis.de/leben-im-wartburgkreis/gesundheit/aktuelle-informationen-zum-corona-virus/gesetze-und-regelungen",
+    "areaId": 387,
+    "areaCode": "16063"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Unstrut-Hainich-Kreis, Landkreis",
+    "informationUrl": "https://www.unstrut-hainich-kreis.de/index.php/informationen-zum-neuartigen-coronavirus",
+    "areaId": 388,
+    "areaCode": "16064"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Kyffhäuserkreis, Landkreis",
+    "informationUrl": "https://www.kyffhaeuser.de/kyf/index.php/landkreis.html",
+    "areaId": 389,
+    "areaCode": "16065"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Schmalkalden-Meiningen, Landkreis",
+    "informationUrl": "https://www.lra-sm.de/?page_id=4996",
+    "areaId": 390,
+    "areaCode": "16066"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Gotha, Landkreis",
+    "informationUrl": "https://www.landkreis-gotha.de",
+    "areaId": 391,
+    "areaCode": "16067"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Sömmerda, Landkreis",
+    "informationUrl": "https://www.lra-soemmerda.de/Seiten/Corona.aspx",
+    "areaId": 392,
+    "areaCode": "16068"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Hildburghausen, Landkreis",
+    "informationUrl": "https://www.landkreis-hildburghausen.de/Aktuelles-Covid-19/Aktuelles-zu-Covid-19-im-Landkreis/Allgemeinverfügungen-und-Verordnungen/",
+    "areaId": 393,
+    "areaCode": "16069"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Ilm-Kreis, Landkreis",
+    "informationUrl": "https://www.ilm-kreis.de/Corona/Informationen-zur-Corona-Pandemie/?&La=1",
+    "areaId": 394,
+    "areaCode": "16070"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Weimarer Land, Landkreis",
+    "informationUrl": "https://weimarerland.de/index_lra.html",
+    "areaId": 395,
+    "areaCode": "16071"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Sonneberg, Landkreis",
+    "informationUrl": "https://www.kreis-sonneberg.de/news/copy_of_derzeit-geltende-verordnungen-und-allgemeinverfugungen-1/?searchterm=Allgemeinverfügung",
+    "areaId": 396,
+    "areaCode": "16072"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Saalfeld-Rudolstadt, Landkreis",
+    "informationUrl": "https://www.kreis-slf.de/landratsamt/",
+    "areaId": 397,
+    "areaCode": "16073"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Saale-Holzland-Kreis, Landkreis",
+    "informationUrl": "https://www.saaleholzlandkreis.de/corona-virus/landes-regelungen/",
+    "areaId": 398,
+    "areaCode": "16074"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Saale-Orla-Kreis, Landkreis",
+    "informationUrl": "https://www.saale-orla-kreis.de/de/allgemeinverfuegungenverordnungen.html",
+    "areaId": 399,
+    "areaCode": "16075"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Greiz, Landkreis",
+    "informationUrl": "https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-startseite",
+    "areaId": 400,
+    "areaCode": "16076"
+  },
+  {
+    "stateId": 16,
+    "stateName": "Altenburger Land, Landkreis",
+    "informationUrl": "https://www.altenburgerland.de/de/coronavirus",
+    "areaId": 401,
+    "areaCode": "16077"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Reinickendorf, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-reinickendorf/politik-und-verwaltung/aemter/gesundheitsamt/hygiene-umweltmedizin-und-infektionsschutz/coronavirus-976923.php",
+    "areaId": 404,
+    "areaCode": "11012"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Charlottenburg-Wilmersdorf, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-charlottenburg-wilmersdorf/verwaltung/aemter/gesundheitsamt/",
+    "areaId": 405,
+    "areaCode": "11004"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Treptow-Köpenick, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-treptow-koepenick/",
+    "areaId": 406,
+    "areaCode": "11009"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Pankow, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-pankow/",
+    "areaId": 407,
+    "areaCode": "11003"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Neukölln, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-neukoelln/politik-und-verwaltung/aemter/gesundheitsamt/",
+    "areaId": 408,
+    "areaCode": "11008"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Lichtenberg, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-lichtenberg/aktuelles/artikel.905911.php#headline_1_5",
+    "areaId": 409,
+    "areaCode": "11011"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Marzahn-Hellersdorf, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-marzahn-hellersdorf/politik-und-verwaltung/aemter/gesundheitsamt/artikel.1026671.php",
+    "areaId": 410,
+    "areaCode": "11010"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Spandau, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-spandau/",
+    "areaId": 411,
+    "areaCode": "11005"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Steglitz-Zehlendorf, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-steglitz-zehlendorf/aktuelles/corona/",
+    "areaId": 412,
+    "areaCode": "11006"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Mitte, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/gesundheitsamt/corona/",
+    "areaId": 413,
+    "areaCode": "11001"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Friedrichshain-Kreuzberg, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-friedrichshain-kreuzberg/aktuelles/corona-informationen/",
+    "areaId": 414,
+    "areaCode": "11002"
+  },
+  {
+    "stateId": 11,
+    "stateName": "Berlin Tempelhof-Schöneberg, Bezirk",
+    "informationUrl": "https://www.berlin.de/ba-tempelhof-schoeneberg/politik-und-verwaltung/aemter/gesundheitsamt/",
+    "areaId": 415,
+    "areaCode": "11007"
+  }
+]

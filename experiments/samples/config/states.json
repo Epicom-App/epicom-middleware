@@ -1,0 +1,82 @@
+[
+    {
+        "stateId": 2,
+        "stateName": "Hamburg",
+        "informationUrl": "https://www.hamburg.de/coronavirus/"
+    },
+    {
+        "stateId": 8,
+        "stateName": "Baden-Württemberg",
+        "informationUrl": "https://www.baden-wuerttemberg.de/de/service/aktuelle-infos-zu-corona/"
+    },
+    {
+        "stateId": 1,
+        "stateName": "Schleswig-Holstein",
+        "informationUrl": "https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/coronavirus_node.html"
+    },
+    {
+        "stateId": 7,
+        "stateName": "Rheinland-Pfalz",
+        "informationUrl": "https://corona.rlp.de/de/startseite/"
+    },
+    {
+        "stateId": 3,
+        "stateName": "Niedersachsen",
+        "informationUrl": "https://www.niedersachsen.de/Coronavirus"
+    },
+    {
+        "stateId": 11,
+        "stateName": "Berlin",
+        "informationUrl": "https://www.berlin.de/corona/"
+    },
+    {
+        "stateId": 5,
+        "stateName": "Nordrhein-Westfalen",
+        "informationUrl": "https://www.land.nrw/corona"
+    },
+    {
+        "stateId": 9,
+        "stateName": "Bayern",
+        "informationUrl": "https://www.bayern.de/service/coronavirus-in-bayern-informationen-auf-einen-blick/"
+    },
+    {
+        "stateId": 6,
+        "stateName": "Hessen",
+        "informationUrl": "https://www.hessen.de/fuer-buerger/aktuelle-informationen-zu-corona-hessen"
+    },
+    {
+        "stateId": 13,
+        "stateName": "Mecklenburg-Vorpommern",
+        "informationUrl": "https://www.regierung-mv.de/corona/"
+    },
+    {
+        "stateId": 4,
+        "stateName": "Bremen",
+        "informationUrl": "https://www.bremen.de/corona"
+    },
+    {
+        "stateId": 12,
+        "stateName": "Brandenburg",
+        "informationUrl": "https://www.brandenburg.de/de/portal/bb1.c.473964.de"
+    },
+    {
+        "stateId": 14,
+        "stateName": "Sachsen",
+        "informationUrl": "https://www.coronavirus.sachsen.de/"
+    },
+    {
+        "stateId": 10,
+        "stateName": "Saarland",
+        "informationUrl": "https://www.saarland.de/DE/portale/corona/home/home_node.html"
+    },
+    {
+        "stateId": 15,
+        "stateName": "Sachsen-Anhalt",
+        "informationUrl": "https://coronavirus.sachsen-anhalt.de/"
+    },
+    {
+        "stateId": 16,
+        "stateName": "Thüringen",
+        "informationUrl": "https://corona.thueringen.de/"
+    }
+]

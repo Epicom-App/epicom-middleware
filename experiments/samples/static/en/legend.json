@@ -1,0 +1,77 @@
+{
+  "name": "Cases in the last 7 days/100,000 inhabitants",
+  "items": [
+    {
+      "severity": 0,
+      "description": "0",
+      "color": "#adadad",
+      "isRisky": false,
+      "lowerBoundary": null,
+      "upperBoundary": 0
+    },
+    {
+      "severity": 1,
+      "description": "> 0 ≤ 5",
+      "color": "#fffccd",
+      "isRisky": false,
+      "lowerBoundary": 0,
+      "upperBoundary": 5
+    },
+    {
+      "severity": 2,
+      "description": "> 5 ≤ 25",
+      "color": "#fff380",
+      "isRisky": false,
+      "lowerBoundary": 5,
+      "upperBoundary": 25
+    },
+    {
+      "severity": 3,
+      "description": "> 25 ≤ 50",
+      "color": "#ffb534",
+      "isRisky": false,
+      "lowerBoundary": 25,
+      "upperBoundary": 50
+    },
+    {
+      "severity": 4,
+      "description": "> 50 ≤ 100",
+      "color": "#d43624",
+      "isRisky": true,
+      "lowerBoundary": 50,
+      "upperBoundary": 100
+    },
+    {
+      "severity": 5,
+      "description": "> 100 ≤ 250",
+      "color": "#951214",
+      "isRisky": true,
+      "lowerBoundary": 100,
+      "upperBoundary": 250
+    },
+    {
+      "severity": 6,
+      "description": "> 250 ≤ 500",
+      "color": "#671212",
+      "isRisky": true,
+      "lowerBoundary": 250,
+      "upperBoundary": 500
+    },
+    {
+      "severity": 7,
+      "description": "> 500 ≤ 1.000",
+      "color": "#dd0085",
+      "isRisky": true,
+      "lowerBoundary": 500,
+      "upperBoundary": 1000
+    },
+    {
+      "severity": 8,
+      "description": "> 1.000",
+      "color": "#5800dd",
+      "isRisky": true,
+      "lowerBoundary": 1000,
+      "upperBoundary": null
+    }
+  ]
+}

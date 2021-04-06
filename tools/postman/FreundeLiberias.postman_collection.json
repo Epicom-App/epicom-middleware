@@ -1,0 +1,171 @@
+{
+	"info": {
+		"_postman_id": "267e4480-3bc3-44e0-830d-fe65e774d873",
+		"name": "FreundeLiberias",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "RKI",
+			"item": [
+				{
+					"name": "GET Region Data / Bunderländer",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Coronaf%C3%A4lle_in_den_Bundesl%C3%A4ndern/FeatureServer/0/query?where=1%3D1&outFields=OBJECTID_1,LAN_ew_GEN&returnGeometry=false&outSR=4326&f=json",
+							"protocol": "https",
+							"host": [
+								"services7",
+								"arcgis",
+								"com"
+							],
+							"path": [
+								"mOBPykOjAyBO2ZKk",
+								"arcgis",
+								"rest",
+								"services",
+								"Coronaf%C3%A4lle_in_den_Bundesl%C3%A4ndern",
+								"FeatureServer",
+								"0",
+								"query"
+							],
+							"query": [
+								{
+									"key": "where",
+									"value": "1%3D1"
+								},
+								{
+									"key": "outFields",
+									"value": "OBJECTID_1,LAN_ew_GEN"
+								},
+								{
+									"key": "returnGeometry",
+									"value": "false"
+								},
+								{
+									"key": "outSR",
+									"value": "4326"
+								},
+								{
+									"key": "f",
+									"value": "json"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET Area / District Data",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=1%3D1&outFields=RS,cases,cases7_per_100k&outSR=4326&f=json&returnGeometry=false",
+							"protocol": "https",
+							"host": [
+								"services7",
+								"arcgis",
+								"com"
+							],
+							"path": [
+								"mOBPykOjAyBO2ZKk",
+								"arcgis",
+								"rest",
+								"services",
+								"RKI_Landkreisdaten",
+								"FeatureServer",
+								"0",
+								"query"
+							],
+							"query": [
+								{
+									"key": "where",
+									"value": "1%3D1"
+								},
+								{
+									"key": "outFields",
+									"value": "RS,cases,cases7_per_100k"
+								},
+								{
+									"key": "outSR",
+									"value": "4326"
+								},
+								{
+									"key": "f",
+									"value": "json"
+								},
+								{
+									"key": "returnGeometry",
+									"value": "false"
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Function",
+			"item": [
+				{
+					"name": "Trigger Fetch",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{BaseUrl}}/api/Fetch-HttpTrigger?code={{Code}}",
+							"host": [
+								"{{BaseUrl}}"
+							],
+							"path": [
+								"api",
+								"Fetch-HttpTrigger"
+							],
+							"query": [
+								{
+									"key": "code",
+									"value": "{{Code}}"
+								},
+								{
+									"key": "await",
+									"value": "true",
+									"disabled": true
+								},
+								{
+									"key": "dtOffsetDays",
+									"value": "-1",
+									"disabled": true
+								}
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
