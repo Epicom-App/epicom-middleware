@@ -4,14 +4,15 @@
 # https://docs.microsoft.com/en-us/azure/devops/pipelines/languages/dotnet-core
 
 trigger:
-- main
-- develop
-
-paths:
-  include:
-    - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch/*
-    - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch.Domain/*
-    - src/backend/Shared/*
+  branches:
+    include:
+    - main
+    - develop
+  paths:
+    include:
+      - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch/*
+      - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch.Domain/*
+      - src/backend/Shared/*
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
