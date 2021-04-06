@@ -1,12 +1,13 @@
 pr:
-  - main
-  - develop
-
-paths:
-  include:
-    - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch/*
-    - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch.Domain/*
-    - src/backend/Shared/*
+  branches:
+    include:
+    - main
+    - develop
+  paths:
+    include:
+      - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch/*
+      - src/backend/FunctionApps/FL.Ebolapp.FunctionApps.Fetch.Domain/*
+      - src/backend/Shared/*
 
 trigger: none
 
