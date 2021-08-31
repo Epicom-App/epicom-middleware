@@ -18,6 +18,12 @@
 // OBJECTID, RS, GEN, BEZ, BL, BL_ID, county, Website Link
 string env;
 
+public static class Environments
+{
+	public const string Development = "dev";
+	public const string Production = "prod";
+}
+
 public class AreaModel
 {
 	// BL_ID
@@ -55,12 +61,12 @@ public static class Columns
 
 async Task Main()
 {
-	env = "prod"; // dev | prod
+	env = Environments.Development; // dev | prod
 
 	var connectionStringConfig = Util.GetPassword($"FL.Ebolapp.Blob.Config.{env}");
 	var clientConfig = new BlobContainerClient(connectionStringConfig, "config");
 
-	var maxAge = env == "dev" ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
+	var maxAge = env == Environments.Development ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
 	
 	var docId = Util.GetPassword("FL_Areas_Google_DocumentID");
 	var gId = Util.GetPassword("FL_Areas_Google_GID");

@@ -16,7 +16,7 @@
 
 async Task Main()
 {
-	var env = "dev"; // dev | prod
+	var env = Environments.Development; // dev | prod
 	var l18n = new[] { "de", "en" };
 
 	var connectionStringConfig = Util.GetPassword($"FL.Ebolapp.Blob.Config.{env}");
@@ -28,7 +28,7 @@ async Task Main()
 	var clientConfig = new BlobContainerClient(connectionStringConfig, "config");
 	var clientStatic = new BlobContainerClient(connectionStringConfig, "static");
 	
-	var maxAge = env == "dev" ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
+	var maxAge = env == Environments.Development ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
 	
 	var legend = await GetLegendConfig(clientConfig);
 	
@@ -90,7 +90,11 @@ public async Task<LegendConfig> GetLegendConfig(BlobContainerClient client)
 	return JsonSerializer.Deserialize<LegendConfig>(legendString);
 }
 
-
+public static class Environments
+{
+	public const string Development = "dev";
+	public const string Production = "prod";
+}
 
 
 
