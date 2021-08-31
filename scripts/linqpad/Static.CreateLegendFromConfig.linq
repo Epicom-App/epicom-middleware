@@ -1,10 +1,10 @@
 <Query Kind="Program">
-  <Reference Relative="Dll\FL.Ebolapp.FunctionApps.Fetch.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.FunctionApps.Fetch.dll</Reference>
-  <Reference Relative="Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll</Reference>
-  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll</Reference>
-  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll</Reference>
-  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.dll</Reference>
-  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.FunctionApps.Fetch.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.FunctionApps.Fetch.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll</Reference>
+  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll</Reference>
+  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll</Reference>
   <NuGetReference>Azure.Storage.Blobs</NuGetReference>
   <Namespace>Azure.Storage.Blobs</Namespace>
   <Namespace>Azure.Storage.Blobs.Models</Namespace>
@@ -16,7 +16,7 @@
 
 async Task Main()
 {
-	var env = "dev"; // dev | prod
+	var env = Environments.Development; // dev | prod
 	var l18n = new[] { "de", "en" };
 
 	var connectionStringConfig = Util.GetPassword($"FL.Ebolapp.Blob.Config.{env}");
@@ -28,7 +28,7 @@ async Task Main()
 	var clientConfig = new BlobContainerClient(connectionStringConfig, "config");
 	var clientStatic = new BlobContainerClient(connectionStringConfig, "static");
 	
-	var maxAge = env == "dev" ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
+	var maxAge = env == Environments.Development ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
 	
 	var legend = await GetLegendConfig(clientConfig);
 	
@@ -90,7 +90,11 @@ public async Task<LegendConfig> GetLegendConfig(BlobContainerClient client)
 	return JsonSerializer.Deserialize<LegendConfig>(legendString);
 }
 
-
+public static class Environments
+{
+	public const string Development = "dev";
+	public const string Production = "prod";
+}
 
 
 

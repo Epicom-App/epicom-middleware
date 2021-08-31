@@ -1,4 +1,13 @@
 <Query Kind="Program">
+  <Reference Relative="Dll\FL.Ebolapp.FunctionApps.Fetch.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.FunctionApps.Fetch.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll</Reference>
+  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll</Reference>
+  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll</Reference>
+  <NuGetReference>Azure.Storage.Blobs</NuGetReference>
+  <Namespace>Azure.Storage.Blobs</Namespace>
+  <Namespace>Azure.Storage.Blobs.Models</Namespace>
   <Namespace>System.Net.Http</Namespace>
   <Namespace>System.Runtime.Serialization</Namespace>
   <Namespace>System.Text.Json</Namespace>
@@ -6,9 +15,14 @@
   <Namespace>System.Threading.Tasks</Namespace>
 </Query>
 
-List<AreaModel> columns = new ();
-
 // OBJECTID, RS, GEN, BEZ, BL, BL_ID, county, Website Link
+string env;
+
+public static class Environments
+{
+	public const string Development = "dev";
+	public const string Production = "prod";
+}
 
 public class AreaModel
 {
@@ -47,20 +61,34 @@ public static class Columns
 
 async Task Main()
 {
+	env = Environments.Development; // dev | prod
+
+	var connectionStringConfig = Util.GetPassword($"FL.Ebolapp.Blob.Config.{env}");
+	var clientConfig = new BlobContainerClient(connectionStringConfig, "config");
+
+	var maxAge = env == Environments.Development ? TimeSpan.FromMinutes(1) : TimeSpan.FromDays(1);
+	
 	var docId = Util.GetPassword("FL_Areas_Google_DocumentID");
 	var gId = Util.GetPassword("FL_Areas_Google_GID");
 	var url = $"https://docs.google.com/spreadsheets/d/{docId}/export?format=tsv&id={docId}&gid={gId}";
 
 	int numberOfColumns = 8;
 
-	using HttpClient httpClient = new ();	
-	
+	var data = await GetAreaData(numberOfColumns, url);
+	await UploadAreas(clientConfig, data, maxAge);
+}
+
+public async Task<List<AreaModel>> GetAreaData(int numberOfColumns, string url)
+{
+	var result = new List<AreaModel>();
+	using HttpClient httpClient = new();
+
 	using HttpResponseMessage response = await httpClient.GetAsync(new Uri(url));
 	using var file = new System.IO.StreamReader(await response.Content.ReadAsStreamAsync());
-		
+
 	int counter = 0;
 	string row;
-	
+
 	while (!file.EndOfStream)
 	{
 		counter++;
@@ -78,7 +106,7 @@ async Task Main()
 			throw new Exception($"Found more columns! Supported number of columns is: [{numberOfColumns}]");
 		}
 
-		columns.Add(new AreaModel
+		result.Add(new AreaModel
 		{
 			AreaId = int.Parse(data[Columns.OBJECTID]),
 			AreaCode = data[Columns.RS],
@@ -88,16 +116,47 @@ async Task Main()
 		});
 	}
 
-	System.Text.Json.JsonSerializer.Serialize(
-		columns,
+	return result;
+}
+
+public async Task UploadAreas(BlobContainerClient client, List<AreaModel> data, TimeSpan maxAge)
+{
+	var blob = client.GetBlobClient("areas.json");
+	var jsonString = System.Text.Json.JsonSerializer.Serialize(
+		data,
 		new JsonSerializerOptions
 		{
 			WriteIndented = true,
 			Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping
-		}).Dump();
+		}
+	);
+	
+	jsonString.Dump();
+
+	Console.WriteLine($"Upload to [{env}] - [{blob.Name}] (y/n), default: n");
+	var input = Console.ReadLine();
+	if(!input.ToUpper().Equals("Y"))
+	{
+		return;
+	}
+
+	var contentStream = new MemoryStream();
+	var streamWriter = new StreamWriter(contentStream);
+	await streamWriter.WriteAsync(jsonString);
+	await streamWriter.FlushAsync();
+	contentStream.Seek(0L, SeekOrigin.Begin);
+
+	var response = await blob.UploadAsync(contentStream, new BlobUploadOptions
+	{
+		HttpHeaders = new BlobHttpHeaders
+		{
+			ContentType = FL.Ebolapp.Shared.Infrastructure.MimeType.Json,
+			CacheControl = $"max-age={(int)maxAge.TotalSeconds}",
+		}
+	});
+	
+	Console.WriteLine("Upload done.");
 }
-
-
 
 
 
