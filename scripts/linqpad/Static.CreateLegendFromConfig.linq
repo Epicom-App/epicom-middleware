@@ -1,10 +1,10 @@
 <Query Kind="Program">
-  <Reference Relative="Dll\FL.Ebolapp.FunctionApps.Fetch.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.FunctionApps.Fetch.dll</Reference>
-  <Reference Relative="Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll</Reference>
-  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll</Reference>
-  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll</Reference>
-  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.dll</Reference>
-  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll">C:\repos\Freunde-Liberias-EBOLAPP-Backend\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.FunctionApps.Fetch.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.FunctionApps.Fetch.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.FunctionsApp.Fetch.Domain.dll</Reference>
+  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.Blob.dll</Reference>
+  <Reference Relative="Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\Fl.Ebolapp.Shared.Infrastructure.Azure.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.dll</Reference>
+  <Reference Relative="Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll">C:\repos\epicom-middleware\scripts\linqpad\Dll\FL.Ebolapp.Shared.Infrastructure.Extensions.dll</Reference>
   <NuGetReference>Azure.Storage.Blobs</NuGetReference>
   <Namespace>Azure.Storage.Blobs</Namespace>
   <Namespace>Azure.Storage.Blobs.Models</Namespace>
